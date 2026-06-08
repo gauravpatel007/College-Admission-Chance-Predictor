@@ -1,0 +1,3769 @@
+year,opening_rank,closing_rank,category,college,branch
+2020-21,2575,160,General,B.Tech(ICT),Chemical
+2020-21,18111,6502,General,B.Tech(ICT),Chemical
+2020-21,183,23235,General,B.Tech(ICT),Chemical
+2020-21,8897,2316,General,B.Tech(ICT),Chemical
+2020-21,22840,3406,General,B.Tech(ICT),Chemical
+2020-21,17577,3406,General,B.Tech(ICT),Chemical
+2020-21,3433,804,General,B.Tech(ICT),Chemical
+2020-21,12646,2062,General,B.Tech(ICT),Civil
+2020-21,25531,5660,General,B.Tech(ICT),Civil
+2020-21,193,8327,General,B.Tech(ICT),Civil
+2020-21,19893,2830,General,B.Tech(ICT),Civil
+2020-21,202,9127,General,B.Tech(ICT),Civil
+2020-21,204,10887,General,B.Tech(ICT),Civil
+2020-21,205,13944,General,B.Tech(ICT),Civil
+2020-21,207,13042,General,B.Tech(ICT),Civil
+2020-21,218,11826,General,B.Tech(ICT),Civil
+2020-21,220,14099,General,B.Tech(ICT),Civil
+2020-21,221,14419,General,B.Tech(ICT),Civil
+2020-21,222,11224,General,B.Tech(ICT),Civil
+2020-21,228,9380,General,B.Tech(ICT),Civil
+2020-21,25600,5872,General,B.Tech(ICT),Civil
+2020-21,11459,1535,General,B.Tech(ICT),Civil
+2020-21,234,5910,General,B.Tech(ICT),Civil
+2020-21,18788,2414,General,B.Tech(ICT),Civil
+2020-21,14950,2615,General,B.Tech(ICT),Civil
+2020-21,23443,17116,General,B.Tech(ICT),Civil
+2020-21,24243,3016,General,B.Tech(ICT),Civil
+2020-21,6100,846,General,B.Tech(ICT),Civil
+2020-21,12557,980,General,B.Tech(ICT),Civil(Cons-Man)
+2020-21,19537,3245,General,B.Tech(ICT),Civil(Cons-Man)
+2020-21,177,75,General,B.Tech(ICT),Computer
+2020-21,562,183,General,B.Tech(ICT),Computer
+2020-21,420,194,General,B.Tech(ICT),Computer
+2020-21,14472,16303,General,B.Tech(ICT),Computer
+2020-21,364,27,General,B.Tech(ICT),Computer
+2020-21,4918,178,General,B.Tech(ICT),Computer
+2020-21,11547,1730,General,B.Tech(ICT),Computer
+2020-21,1701,703,General,B.Tech(ICT),Computer
+2020-21,18800,12211,General,B.Tech(ICT),Computer
+2020-21,18897,19531,General,B.Tech(ICT),Computer
+2020-21,3062,1571,General,B.Tech(ICT),Computer
+2020-21,160,24711,General,B.Tech(ICT),Computer
+2020-21,10377,4568,General,B.Tech(ICT),Computer
+2020-21,9173,4526,General,B.Tech(ICT),Computer
+2020-21,10582,4749,General,B.Tech(ICT),Computer
+2020-21,4570,2466,General,B.Tech(ICT),Computer
+2020-21,6411,3308,General,B.Tech(ICT),Computer
+2020-21,6524,5569,General,B.Tech(ICT),Computer
+2020-21,198,6732,General,B.Tech(ICT),Computer
+2020-21,7279,1186,General,B.Tech(ICT),Computer
+2020-21,27127,8733,General,B.Tech(ICT),Computer
+2020-21,17184,13806,General,B.Tech(ICT),Computer
+2020-21,209,8678,General,B.Tech(ICT),Computer
+2020-21,2483,250,General,B.Tech(ICT),Computer
+2020-21,16409,1989,General,B.Tech(ICT),Computer
+2020-21,2888,333,General,B.Tech(ICT),Computer
+2020-21,217,7242,General,B.Tech(ICT),Computer
+2020-21,12715,1965,General,B.Tech(ICT),Computer
+2020-21,224,7021,General,B.Tech(ICT),Computer
+2020-21,6702,1173,General,B.Tech(ICT),Computer
+2020-21,240,6628,General,B.Tech(ICT),Computer
+2020-21,21955,19294,General,B.Tech(ICT),Computer
+2020-21,23681,15980,General,B.Tech(ICT),Computer
+2020-21,17477,20921,General,B.Tech(ICT),Computer
+2020-21,275,15353,General,B.Tech(ICT),Computer
+2020-21,22798,10746,General,B.Tech(ICT),Computer
+2020-21,24065,18455,General,B.Tech(ICT),Computer
+2020-21,10964,12965,General,B.Tech(ICT),Computer
+2020-21,13023,14397,General,B.Tech(ICT),Computer
+2020-21,716,115,General,B.Tech(ICT),Computer
+2020-21,4968,448,General,B.Tech(ICT),Computer
+2020-21,194,8056,General,B.Tech(ICT),Electrical
+2020-21,26607,6729,General,B.Tech(ICT),Electrical
+2020-21,210,12100,General,B.Tech(ICT),Electrical
+2020-21,211,13358,General,B.Tech(ICT),Electrical
+2020-21,212,16533,General,B.Tech(ICT),Electrical
+2020-21,225,9037,General,B.Tech(ICT),Electrical
+2020-21,12160,16272,General,B.Tech(ICT),Electrical
+2020-21,227,11093,General,B.Tech(ICT),Electrical
+2020-21,229,9248,General,B.Tech(ICT),Electrical
+2020-21,230,14607,General,B.Tech(ICT),Electrical
+2020-21,235,11206,General,B.Tech(ICT),Electrical
+2020-21,236,9862,General,B.Tech(ICT),Electrical
+2020-21,237,7952,General,B.Tech(ICT),Electrical
+2020-21,15397,2697,General,B.Tech(ICT),Electrical
+2020-21,10943,2122,General,B.Tech(ICT),Electrical
+2020-21,23833,3212,General,B.Tech(ICT),Electrical
+2020-21,252,11450,General,B.Tech(ICT),Electrical
+2020-21,25399,7136,General,B.Tech(ICT),Electrical
+2020-21,16823,23215,General,B.Tech(ICT),Electrical
+2020-21,24060,14207,General,B.Tech(ICT),Electrical
+2020-21,12197,15161,General,B.Tech(ICT),Electrical
+2020-21,6640,634,General,B.Tech(ICT),Electrical
+2020-21,15550,1399,General,B.Tech(ICT),Electrical
+2020-21,10741,1473,General,B.Tech(ICT),Electrical
+2020-21,1151,151,General,B.Tech(ICT),Electrical
+2020-21,4029,520,General,B.Tech(ICT),Electrical
+2020-21,26347,4747,General,B.Tech(ICT),Electrical - EA
+2020-21,242,11299,General,B.Tech(ICT),Electrical - EA
+2020-21,15054,3011,General,B.Tech(ICT),Electrical - EA
+2020-21,206,9067,General,B.Tech(ICT),Mining
+2020-21,12990,2385,General,Cloud Tech Inf Sec,Civil
+2020-21,21093,7314,General,Cloud Tech Inf Sec,Civil Infra.
+2020-21,9836,5124,General,Cloud Tech Inf Sec,Computer
+2020-21,13525,6532,General,Cloud Tech Inf Sec,Computer
+2020-21,50052,21583,General,Cloud Tech Inf Sec,Computer
+2020-21,14001,16184,General,Cloud Tech Inf Sec,Computer
+2020-21,17056,18757,General,Cloud Tech Inf Sec,Computer
+2020-21,13515,15773,General,Cloud Tech Inf Sec,Computer
+2020-21,91,22620,General,Cloud Tech Inf Sec,Computer
+2020-21,929,161,General,Cloud Tech Inf Sec,Computer
+2020-21,16546,1428,General,Cloud Tech Inf Sec,Computer
+2020-21,113,50030,General,Cloud Tech Inf Sec,Computer
+2020-21,9243,1329,General,Cloud Tech Inf Sec,Electrical
+2020-21,6835,760,General,Cloud Tech Inf Sec,Electrical
+2020-21,104,6010,General,Cloud Tech Inf Sec,Electrical
+2020-21,18435,24997,General,Cloud Tech Inf Sec,Electrical
+2020-21,3698,2402,General,Cloud Tech Inf Sec,Electrical
+2020-21,17674,9350,General,Cloud Tech Inf Sec,Electrical
+2020-21,605,15133,General,Dairy Tech.,Chemical
+2020-21,5409,1792,General,Dairy Tech.,Chemical
+2020-21,13316,15166,General,Dairy Tech.,Chemical
+2020-21,16630,18228,General,Dairy Tech.,Computer
+2020-21,539,24045,General,Dairy Tech.,Computer
+2020-21,17923,14316,General,Dairy Tech.,Computer
+2020-21,571,24245,General,Dairy Tech.,Computer
+2020-21,20797,22722,General,Dairy Tech.,Computer
+2020-21,6897,3474,General,Dairy Tech.,Computer
+2020-21,7933,4091,General,Dairy Tech.,Computer
+2020-21,6032,1685,General,Env.Sc.Tech.,Chemical
+2020-21,666,14930,General,Env.Sc.Tech.,Civil
+2020-21,10064,2322,General,Env.Sc.Tech.,Civil
+2020-21,12677,15836,General,Env.Sc.Tech.,Computer
+2020-21,650,24412,General,Env.Sc.Tech.,Computer
+2020-21,18662,9700,General,Env.Sc.Tech.,Computer
+2020-21,10337,6395,General,Env.Sc.Tech.,Computer
+2020-21,15853,9230,General,Env.Sc.Tech.,Computer
+2020-21,2296,1475,General,Env.Sc.Tech.,Computer
+2020-21,9317,1205,General,Env.Sc.Tech.,Computer
+2020-21,9822,5379,General,Env.Sc.Tech.,Computer
+2020-21,15765,8369,General,Env.Sc.Tech.,Computer
+2020-21,667,8184,General,Env.Sc.Tech.,Electrical
+2020-21,668,22593,General,Env.Sc.Tech.,Electrical
+2020-21,14809,12089,General,Env.Sc.Tech.,Electrical
+2020-21,670,14170,General,Env.Sc.Tech.,Electrical
+2020-21,19561,22077,General,Env.Sc.Tech.,Electrical
+2020-21,11677,1581,General,Env.Sc.Tech.,Electrical
+2020-21,18046,2524,General,Env.Sc.Tech.,Electrical
+2020-21,1533,246,General,Env.Sc.Tech.,Electrical
+2020-21,8468,1206,General,Env.Sc.Tech.,Electrical
+2020-21,726,4884,General,Env.Sc.Tech.,Electrical
+2020-21,8286,3865,General,"Neotech, Vadodara",Chemical
+2020-21,22910,11124,General,"Neotech, Vadodara",Chemical
+2020-21,20724,13734,General,"Neotech, Vadodara",Civil
+2020-21,1366,434,General,"Neotech, Vadodara",Civil
+2020-21,18591,9769,General,"Neotech, Vadodara",Civil
+2020-21,5125,2434,General,"Neotech, Vadodara",Computer
+2020-21,18333,7828,General,"Neotech, Vadodara",Computer
+2020-21,20428,18131,General,"Neotech, Vadodara",Electrical
+2020-21,473,9189,General,"Neotech, Vadodara",Electrical
+2020-21,9784,8241,General,"Neotech, Vadodara",Electrical
+2020-21,27334,14210,General,"Neotech, Vadodara",Electrical
+2020-21,18252,21146,General,"Neotech, Vadodara",Electrical
+2020-21,508,21236,General,"Neotech, Vadodara",Electrical
+2020-21,7494,3168,General,"Neotech, Vadodara",Electrical
+2020-21,16727,17455,General,"Neotech, Vadodara",Electrical
+2020-21,24776,9515,General,"Neotech, Vadodara",Electrical
+2020-21,18974,27151,General,"Neotech, Vadodara",Electrical
+2020-21,19243,12781,General,PlasticEngg,Computer
+2020-21,7293,3246,General,PlasticEngg,Computer
+2020-21,5857,3109,General,PlasticEngg,Computer
+2020-21,9517,4024,General,PlasticEngg,Computer
+2020-21,19790,4559,General,PlasticTech,Chemical
+2020-21,1320,55,General,PlasticTech,Chemical
+2020-21,398,9752,General,PlasticTech,Civil
+2020-21,9133,1085,General,PlasticTech,Civil
+2020-21,641,23,General,PlasticTech,Civil
+2020-21,5573,445,General,PlasticTech,Civil
+2020-21,22641,10434,General,PlasticTech,Computer
+2020-21,24961,11905,General,PlasticTech,Computer
+2020-21,9982,5315,General,PlasticTech,Computer
+2020-21,17070,9710,General,PlasticTech,Computer
+2020-21,10489,5754,General,PlasticTech,Computer
+2020-21,418,23342,General,PlasticTech,Computer
+2020-21,19559,22272,General,PlasticTech,Computer
+2020-21,399,10478,General,PlasticTech,Electrical
+2020-21,10483,2254,General,PlasticTech,Electrical
+2020-21,402,6834,General,PlasticTech,Electrical
+2020-21,403,21721,General,PlasticTech,Electrical
+2020-21,4919,695,General,PlasticTech,Electrical
+2020-21,3320,406,General,PlasticTech,Electrical
+2020-21,20559,2089,General,PlasticTech,Electrical
+2020-21,456,4241,General,PlasticTech,Electrical
+2020-21,457,12812,General,PlasticTech,Electrical
+2020-21,458,9106,General,PlasticTech,Electrical
+2020-21,459,8867,General,PlasticTech,Electrical
+2020-21,461,19827,General,PlasticTech,Electrical
+2020-21,387,3955,General,PlasticTech,PlasticTech
+2020-21,388,2925,General,PlasticTech,Rubber
+2020-21,389,8936,General,PlasticTech,Rubber
+2021-22,18200,4015,General,"A.D.Patel Institute Of Tech.,Karamsad",
+2021-22,12154,1915,General,"A.D.Patel Institute Of Tech.,Karamsad",Computer Engineering
+2021-22,12868,4874,General,"A.D.Patel Institute Of Tech.,Karamsad",Computer Science
+2021-22,30995,6030,General,"A.D.Patel Institute Of Tech.,Karamsad",FOOD PROCESSING TECHNOLOGY
+2021-22,6558,2286,General,"A.D.Patel Institute Of Tech.,Karamsad",Information Technology
+2021-22,4248,1455,General,"ADANI INSTITUTE OF INFRASTRUCTURE ENGINEERING,AHMEDABAD",Computer Science
+2021-22,13013,1750,General,"ADANI INSTITUTE OF INFRASTRUCTURE ENGINEERING,AHMEDABAD",INFORMATION & COMMUNICATION TECHNOLOGY
+2021-22,34273,8621,General,"ADITYA SILVER OAK INSTITUTE OF TECHNOLOGY (WITHIN LIMITS OF
+AHMEDABAD MUNICIPAL CORPORATION) AHMEDABAD",Computer Engineering
+2021-22,34520,8696,General,"ADITYA SILVER OAK INSTITUTE OF TECHNOLOGY (WITHIN LIMITS OF
+AHMEDABAD MUNICIPAL CORPORATION) AHMEDABAD",Information Technology
+2021-22,29152,5801,General,APOLLO INSTITUTE OF ENGINEERING & TECHNOLOGY AHMEDABAD,Computer Engineering
+2021-22,23389,4161,General,"Ahmedabad Institute Of Tech, Ahmedabad",Computer Engineering
+2021-22,31083,5230,General,"Ahmedabad Institute Of Tech, Ahmedabad",Information Technology
+2021-22,32954,10555,General,"Amiraj College Of Engg & Tech., Sanand, Ahmedabad",Computer Science
+2021-22,34555,7131,General,Asha M. Tarsadia Institute of Computer Science & Tech. Bardoli,Computer Science
+2021-22,26149,6031,General,"Atmiya University, Faculty of Engineering and Technology, Rajkot",Computer Engineering
+2021-22,33678,5990,General,"Atmiya University, Faculty of Engineering and Technology, Rajkot",Information Technology
+2021-22,30291,8181,General,"Bhagwan Arihant Institute of Tech., Surat",Computer Engineering
+2021-22,33802,7809,General,"Bhagwan Arihant Institute of Tech., Surat",Information Technology
+2021-22,24726,6168,General,"Bhagwan Mahavir College Of Engg. And Tech., Surat",Computer Engineering
+2021-22,10400,4011,General,"C. K. Pithawala College Of Engg. & Tech., Surat",Computer Engineering
+2021-22,24422,9488,General,CIVIL ENGINEERING,Civil Engineering
+2021-22,2033,520,General,COMPUTER ENGINEERING,Computer Engineering
+2021-22,9757,1141,General,"Chandubhai S Patel Institute Of Technology, Changa",Computer Engineering
+2021-22,2318,803,General,"Chandubhai S Patel Institute Of Technology, Changa",Computer Science
+2021-22,9501,1331,General,"Chandubhai S Patel Institute Of Technology, Changa",Information Technology
+2021-22,34022,5272,General,"Chhotubhai Gopalbhai Patel Institute Of Tech., Tarsadi, Bardoli",Computer Engineering
+2021-22,34412,12821,General,"Chhotubhai Gopalbhai Patel Institute Of Tech., Tarsadi, Bardoli",Information Technology
+2021-22,34550,7614,General,"Chhotubhai Gopalbhai Patel Institute Of Tech., Tarsadi, Bardoli",Information Technology
+2021-22,18088,8185,General,DR. S & S.S.Ghandhi Government Engineering College Surat,Civil Engineering
+2021-22,28520,11698,General,DR. S & S.S.Ghandhi Government Engineering College Surat,ENVIRONMENTAL ENGINEERING
+2021-22,21613,8298,General,DR. S & S.S.Ghandhi Government Engineering College Surat,Electrical Engineering
+2021-22,16592,6412,General,DR. S & S.S.Ghandhi Government Engineering College Surat,Electronics & Communication
+2021-22,14419,6440,General,DR. S & S.S.Ghandhi Government Engineering College Surat,Mechanical Engineering
+2021-22,17943,2263,General,"Darshan Institute Of Engg. & Tech., Rajkot-Morbi Highway, Hadala",Computer Engineering
+2021-22,17341,10420,General,"Department of Engineering and Computing , Institute of Advance
+Research, Gandhinagar",Computer Engineering
+2021-22,13176,4120,General,"Department of Engineering and Computing , Institute of Advance
+Research, Gandhinagar",Computer Engineering
+2021-22,16574,16264,General,"Department of Engineering and Computing , Institute of Advance
+Research, Gandhinagar",INFORMATION & COMMUNICATION TECHNOLOGY
+2021-22,12659,23274,General,"Department of Engineering and Computing , Institute of Advance
+Research, Gandhinagar",Information Technology
+2021-22,8848,1556,General,"Devang Patel Institute of Advance Technology And Research,
+Changa",Computer Engineering
+2021-22,10007,1707,General,"Devang Patel Institute of Advance Technology And Research,
+Changa",Computer Science
+2021-22,3792,1711,General,"Devang Patel Institute of Advance Technology And Research,
+Changa",Information Technology
+2021-22,337,61,General,"Dhirubhai Ambani Institute of Info. & Comm. Tech., Gandhinagar",INFORMATION & COMMUNICATION TECHNOLOGY
+2021-22,191,39,General,"Dhirubhai Ambani Institute of Info. & Comm. Tech., Gandhinagar",INFORMATION & COMMUNICATION TECHNOLOGY
+2021-22,821,14,General,"Dhirubhai Ambani Institute of Info. & Comm. Tech., Gandhinagar",Information Technology
+2021-22,22715,7133,General,ELECTRICAL ENGINEERING,Electrical Engineering
+2021-22,17828,5221,General,ELECTRONICS & COMMUNICATION ENGINEERING,Electronics & Communication
+2021-22,19699,9999,General,ELECTRONICS ENGINEERING,ELECTRONICS ENGINEERING
+2021-22,1871,1009,General,"Faculty Of Technology & Engineering(MSU), Vadodara",Chemical Engineering
+2021-22,13270,6029,General,"Faculty Of Technology & Engineering(MSU), Vadodara",Civil Engineering
+2021-22,1615,320,General,"Faculty Of Technology & Engineering(MSU), Vadodara",Computer Science
+2021-22,3616,2902,General,"Faculty Of Technology & Engineering(MSU), Vadodara",ELECTRONICS ENGINEERING
+2021-22,5741,3331,General,"Faculty Of Technology & Engineering(MSU), Vadodara",Electrical Engineering
+2021-22,14840,1565,General,"Faculty Of Technology & Engineering(MSU), Vadodara",Mechanical Engineering
+2021-22,25106,12680,General,"Faculty Of Technology & Engineering(MSU), Vadodara",Mechanical Engineering
+2021-22,22105,10238,General,"Faculty Of Technology & Engineering(MSU), Vadodara",TEXTILE ENGINEERING
+2021-22,34041,16881,General,"Faculty Of Technology & Engineering(MSU), Vadodara",TEXTILE ENGINEERING
+2021-22,3549,1017,General,"Faculty Of Technology And Engineering(GIA), Dharmsinh Desai
+University, (DDU), Nadiad",Chemical Engineering
+2021-22,14329,8436,General,"Faculty Of Technology And Engineering(GIA), Dharmsinh Desai
+University, (DDU), Nadiad",Civil Engineering
+2021-22,939,159,General,"Faculty Of Technology And Engineering(GIA), Dharmsinh Desai
+University, (DDU), Nadiad",Computer Engineering
+2021-22,10297,904,General,"Faculty Of Technology And Engineering(GIA), Dharmsinh Desai
+University, (DDU), Nadiad",Electronics & Communication
+2021-22,15981,5409,General,"Faculty Of Technology And Engineering(GIA), Dharmsinh Desai
+University, (DDU), Nadiad",INSTRUMENTATION & CONTROL ENGINEERING
+2021-22,22764,3178,General,"Faculty Of Technology(Sfi), Dharmsinh Desai University, Nadiad",Chemical Engineering
+2021-22,595,289,General,"Faculty Of Technology(Sfi), Dharmsinh Desai University, Nadiad",Computer Engineering
+2021-22,8561,3733,General,"Faculty Of Technology(Sfi), Dharmsinh Desai University, Nadiad",Electronics & Communication
+2021-22,22955,10645,General,"Faculty Of Technology(Sfi), Dharmsinh Desai University, Nadiad",INSTRUMENTATION & CONTROL ENGINEERING
+2021-22,1368,473,General,"Faculty Of Technology(Sfi), Dharmsinh Desai University, Nadiad",Information Technology
+2021-22,31679,8065,General,"Faculty Of Technology(Sfi), Dharmsinh Desai University, Nadiad",Mechanical Engineering
+2021-22,33206,6535,General,"G.H.Patel College Of Engg. & Tech. , V. V. Nagar",Chemical Engineering
+2021-22,2147,1151,General,"G.H.Patel College Of Engg. & Tech. , V. V. Nagar",Computer Engineering
+2021-22,6611,2930,General,"G.H.Patel College Of Engg. & Tech. , V. V. Nagar",Computer Science
+2021-22,10483,1964,General,"G.H.Patel College Of Engg. & Tech. , V. V. Nagar",Computer Science
+2021-22,2697,1385,General,"G.H.Patel College Of Engg. & Tech. , V. V. Nagar",Information Technology
+2021-22,18562,8463,General,"GIDC Degree Engineering College, Abrama, Navsari",Computer Engineering
+2021-22,30058,7601,General,GYANMANJARI INSTITUTE OF TECHNOLOGY Bhavnagar,Computer Engineering
+2021-22,33621,7653,General,GYANMANJARI INSTITUTE OF TECHNOLOGY Bhavnagar,Information Technology
+2021-22,31898,4232,General,"Gandhinagar Institute Of Technology, Moti Bhoyan, Kalol,
+Gandhinagar",Computer Engineering
+2021-22,15427,4663,General,"Gandhinagar Institute Of Technology, Moti Bhoyan, Kalol,
+Gandhinagar",Information Technology
+2021-22,32411,6688,General,"Ganpat University, Institute of Computer Tech., Kherva, Mehsana","Ganpat University, Institute of Computer Tech., Kherva, Mehsana"
+2021-22,31603,19745,General,"Ganpat University, U.V.Patel College of Engineering, Kherva,
+Mehsana",BIOMEDICAL ENGINEERING
+2021-22,22655,3738,General,"Ganpat University, U.V.Patel College of Engineering, Kherva,
+Mehsana",Computer Engineering
+2021-22,33593,8014,General,"Ganpat University, U.V.Patel College of Engineering, Kherva,
+Mehsana",Computer Science
+2021-22,23671,5024,General,"Ganpat University, U.V.Patel College of Engineering, Kherva,
+Mehsana",Information Technology
+2021-22,30168,6838,General,"Government Engineering College, Bharuch",Chemical Engineering
+2021-22,29667,18724,General,"Government Engineering College, Bharuch",Civil Engineering
+2021-22,34390,18429,General,"Government Engineering College, Bharuch",Electrical Engineering
+2021-22,34583,15393,General,"Government Engineering College, Bharuch",Mechanical Engineering
+2021-22,27666,6459,General,"Government Engineering College, Bhavnagar",Civil Engineering
+2021-22,18076,2257,General,"Government Engineering College, Bhavnagar",Computer Engineering
+2021-22,27643,13502,General,"Government Engineering College, Bhavnagar",Electronics & Communication
+2021-22,12740,3899,General,"Government Engineering College, Bhavnagar",Information Technology
+2021-22,34231,14593,General,"Government Engineering College, Bhavnagar",Mechanical Engineering
+2021-22,25604,11840,General,"Government Engineering College, Bhuj",Chemical Engineering
+2021-22,11121,9003,General,"Government Engineering College, Dahod",Computer Engineering
+2021-22,17425,5100,General,"Government Engineering College, Modasa",Computer Engineering
+2021-22,27223,14122,General,"Government Engineering College, Modasa",Electronics & Communication
+2021-22,21537,6725,General,"Government Engineering College, Modasa",Information Technology
+2021-22,33319,11680,General,"Government Engineering College, Palanpur",Civil Engineering
+2021-22,34297,13275,General,"Government Engineering College, Palanpur",Electrical Engineering
+2021-22,29093,16021,General,"Government Engineering College, Patan",Civil Engineering
+2021-22,27477,5150,General,"Government Engineering College, Patan",Computer Science
+2021-22,33952,17739,General,"Government Engineering College, Rajkot",AUTOMOBILE ENGINEERING
+2021-22,25731,10740,General,"Government Engineering College, Rajkot",Civil Engineering
+2021-22,18252,3310,General,"Government Engineering College, Rajkot",Computer Engineering
+2021-22,29021,14048,General,"Government Engineering College, Rajkot",Electrical Engineering
+2021-22,34377,17038,General,"Government Engineering College, Rajkot",Electronics & Communication
+2021-22,32170,10004,General,"Government Engineering College, Rajkot",Mechanical Engineering
+2021-22,30050,13798,General,"Government Engineering College, Sector 28 Gandhinagar",BIOMEDICAL ENGINEERING
+2021-22,5271,1521,General,"Government Engineering College, Sector 28 Gandhinagar",Computer Engineering
+2021-22,21911,9628,General,"Government Engineering College, Sector 28 Gandhinagar",Electronics & Communication
+2021-22,5477,1936,General,"Government Engineering College, Sector 28 Gandhinagar",Information Technology
+2021-22,22233,11391,General,"Government Engineering College, Valsad",Chemical Engineering
+2021-22,30491,10413,General,"Government Engineering College, Valsad",Civil Engineering
+2021-22,26650,14088,General,"Government Engineering College, Valsad",Electrical Engineering
+2021-22,31402,14217,General,"Government Engineering College, Valsad",Mechanical Engineering
+2021-22,34398,9121,General,"Gujarat Power Engg. And Res. Inst. (Gperi) (Ppp), Mevad, Mehsana",Computer Engineering
+2021-22,2965,843,General,INFORMATION TECHNOLOGY,Information Technology
+2021-22,27940,32034,General,"ITM (SLS) Baroda University (Formerly Known as ITM Universe),
+Vadodara",Information Technology
+2021-22,11561,3865,General,"Indus Institute Of Tech. & Engg., Racharda, Ahmedabad",Computer Engineering
+2021-22,22163,4014,General,"Indus Institute Of Tech. & Engg., Racharda, Ahmedabad",Computer Science
+2021-22,22787,4088,General,"Indus Institute Of Tech. & Engg., Racharda, Ahmedabad",Information Technology
+2021-22,4923,310,General,"Institute Of Technology, Nirma University Of Science & Technology,
+Ahmedabad",Chemical Engineering
+2021-22,18615,3556,General,"Institute Of Technology, Nirma University Of Science & Technology,
+Ahmedabad",Civil Engineering
+2021-22,1205,167,General,"Institute Of Technology, Nirma University Of Science & Technology,
+Ahmedabad",Computer Science
+2021-22,10992,4223,General,"Institute Of Technology, Nirma University Of Science & Technology,
+Ahmedabad",ELECTRONICS & INSTRUMENTATION ENGINEERING
+2021-22,9908,2222,General,"Institute Of Technology, Nirma University Of Science & Technology,
+Ahmedabad",Electrical Engineering
+2021-22,2565,853,General,"Institute Of Technology, Nirma University Of Science & Technology,
+Ahmedabad",Electronics & Communication
+2021-22,7740,1325,General,"Institute Of Technology, Nirma University Of Science & Technology,
+Ahmedabad",Mechanical Engineering
+2021-22,31269,13292,General,"Institute of Infrastructure, Tech., Research & Management (IITRAM),
+Maninagar, Ahmedabad",Electrical Engineering
+2021-22,31751,8076,General,"Institute of Infrastructure, Tech., Research & Management (IITRAM),
+Maninagar, Ahmedabad",Mechanical Engineering
+2021-22,21330,7209,General,"Krishna School of Emerging Technology & Applied Research
+(Formerly Known as Babaria Institute Of Technology) , Varnama,
+Vadodara",Computer Science
+2021-22,24351,6161,General,"Krishna School of Emerging Technology & Applied Research
+(Formerly Known as Babaria Institute Of Technology) , Varnama,
+Vadodara",Information Technology
+2021-22,15643,6767,General,"L.D.College Of Engineering, Ahmedabad",AUTOMOBILE ENGINEERING
+2021-22,11791,1258,General,"L.D.College Of Engineering, Ahmedabad",BIOMEDICAL ENGINEERING
+2021-22,7038,2388,General,"L.D.College Of Engineering, Ahmedabad",Chemical Engineering
+2021-22,11309,3445,General,"L.D.College Of Engineering, Ahmedabad",Civil Engineering
+2021-22,1685,270,General,"L.D.College Of Engineering, Ahmedabad",Computer Engineering
+2021-22,15012,6505,General,"L.D.College Of Engineering, Ahmedabad",ENVIRONMENTAL ENGINEERING
+2021-22,7237,3169,General,"L.D.College Of Engineering, Ahmedabad",Electrical Engineering
+2021-22,5379,2077,General,"L.D.College Of Engineering, Ahmedabad",Electronics & Communication
+2021-22,14221,6387,General,"L.D.College Of Engineering, Ahmedabad",INSTRUMENTATION & CONTROL ENGINEERING
+2021-22,2584,628,General,"L.D.College Of Engineering, Ahmedabad",Information Technology
+2021-22,15629,2473,General,"L.D.College Of Engineering, Ahmedabad",Mechanical Engineering
+2021-22,30142,16752,General,"L.D.College Of Engineering, Ahmedabad",PLASTIC TECHNOLOGY
+2021-22,32610,8579,General,"L.D.College Of Engineering, Ahmedabad",RUBBER TECHNOLOGY
+2021-22,33439,11183,General,"L.D.College Of Engineering, Ahmedabad",TEXTILE TECHNOLOGY
+2021-22,26193,3079,General,"L.D.R.P. Institute Of Tech. & Research., Gandhinagar",Computer Engineering
+2021-22,13628,3304,General,"L.D.R.P. Institute Of Tech. & Research., Gandhinagar",Information Technology
+2021-22,34208,9970,General,"L.D.R.P. Institute Of Tech. & Research., Gandhinagar",Mechanical Engineering
+2021-22,23782,10474,General,"L.E.College ,Morbi",Chemical Engineering
+2021-22,29293,4541,General,"L.E.College ,Morbi",Information Technology
+2021-22,33671,18468,General,"L.E.College ,Morbi",Mechanical Engineering
+2021-22,33533,12057,General,"L.J. Institute Of Engg And Tech., Ahmedabad",Chemical Engineering
+2021-22,16498,2321,General,"L.J. Institute Of Engg And Tech., Ahmedabad",Computer Engineering
+2021-22,15125,3911,General,"L.J. Institute Of Engg And Tech., Ahmedabad",Computer Science
+2021-22,10920,2687,General,"L.J. Institute Of Engg And Tech., Ahmedabad",Computer Science
+2021-22,32674,10346,General,"L.J. Institute Of Engg And Tech., Ahmedabad",Electronics & Communication
+2021-22,22904,2588,General,"L.J. Institute Of Engg And Tech., Ahmedabad",Information Technology
+2021-22,25932,7227,General,"L.J. Institute Of Engg And Tech., Ahmedabad",Information Technology
+2021-22,14574,4030,General,"L.J. Institute Of Engg And Tech., Ahmedabad",Mechanical Engineering
+2021-22,15748,5886,General,"L.J. Institute Of Engg And Tech., Ahmedabad",Mechanical Engineering
+2021-22,17168,5344,General,MECHANICAL ENGINEERING,Mechanical Engineering
+2021-22,30112,7403,General,MECHANICAL ENGINEERING,Mechanical Engineering
+2021-22,18025,5363,General,"Madhuben & Bhanubhai Patel Institute of Technology, New
+V.V.Nagar",Computer Engineering
+2021-22,22134,5875,General,"Madhuben & Bhanubhai Patel Institute of Technology, New
+V.V.Nagar",Information Technology
+2021-22,33585,2732,General,"Marwadi Edu. Foundation Group Of Institutions, Faculty Of Engg.,
+Rajkot",Computer Engineering
+2021-22,33848,3543,General,"Marwadi Edu. Foundation Group Of Institutions, Faculty Of Engg.,
+Rajkot",Information Technology
+2021-22,34425,5251,General,"Marwadi Edu. Foundation Group Of Institutions, Faculty Of Tech.,
+Rajkot",Computer Engineering
+2021-22,34031,3297,General,"Marwadi Edu. Foundation Group Of Institutions, Faculty Of Tech.,
+Rajkot",INFORMATION & COMMUNICATION TECHNOLOGY
+2021-22,34516,4561,General,"Marwadi Edu. Foundation Group Of Institutions, Faculty Of Tech.,
+Rajkot",Information Technology
+2021-22,7020,3044,General,New L.J. Institute of Engineering & Technology,Computer Science
+2021-22,15996,4648,General,New L.J. Institute of Engineering & Technology,Computer Science
+2021-22,9149,3333,General,New L.J. Institute of Engineering & Technology,Information Technology
+2021-22,20608,5529,General,"P.P. Savani School of Engineering, P.P. Savani University, Kosamba",Computer Engineering
+2021-22,23423,6534,General,"P.P. Savani School of Engineering, P.P. Savani University, Kosamba",Computer Science
+2021-22,29584,7017,General,"P.P. Savani School of Engineering, P.P. Savani University, Kosamba",Information Technology
+2021-22,33437,7159,General,"P.P. Savani School of Engineering, P.P. Savani University, Kosamba",Information Technology
+2021-22,33697,14513,General,PRODUCTION ENGINEERING,PRODUCTION ENGINEERING
+2021-22,33404,7847,General,"Pacific School Of Engineering, Surat",Computer Engineering
+2021-22,16383,3768,General,"Pandit Deendayal Energy University ,Gandhinagar",Chemical Engineering
+2021-22,26311,3648,General,"Pandit Deendayal Energy University ,Gandhinagar",Chemical Engineering
+2021-22,23835,3104,General,"Pandit Deendayal Energy University ,Gandhinagar",Chemical Engineering
+2021-22,5009,648,General,"Pandit Deendayal Energy University ,Gandhinagar",Computer Engineering
+2021-22,27638,6427,General,"Pandit Deendayal Energy University ,Gandhinagar",Electrical Engineering
+2021-22,6054,3263,General,"Pandit Deendayal Energy University ,Gandhinagar",Electronics & Communication
+2021-22,3173,847,General,"Pandit Deendayal Energy University ,Gandhinagar",INFORMATION & COMMUNICATION TECHNOLOGY
+2021-22,15921,5088,General,"Pandit Deendayal Energy University ,Gandhinagar",Mechanical Engineering
+2021-22,14715,3513,General,"Parul Institute of Engineering & Technology, Waghodia, Vadodara",Computer Engineering
+2021-22,19435,4744,General,"Parul Institute of Engineering & Technology, Waghodia, Vadodara",Computer Science
+2021-22,33548,8913,General,"Parul Institute of Engineering & Technology, Waghodia, Vadodara",Computer Science
+2021-22,22345,6080,General,"Parul Institute of Engineering & Technology, Waghodia, Vadodara",Information Technology
+2021-22,22203,16351,General,"Parul Institute of Technology, Waghodia, Vadodara",BIOMEDICAL ENGINEERING
+2021-22,10445,7096,General,"Parul Institute of Technology, Waghodia, Vadodara",BIOMEDICAL ENGINEERING
+2021-22,22421,4583,General,"Parul Institute of Technology, Waghodia, Vadodara",Computer Engineering
+2021-22,30717,5364,General,"Parul Institute of Technology, Waghodia, Vadodara",Computer Science
+2021-22,33979,7738,General,"Parul Institute of Technology, Waghodia, Vadodara",DAIRY TECHNOLOGY
+2021-22,33266,7473,General,"Parul Institute of Technology, Waghodia, Vadodara",FOOD TECHNOLOGY
+2021-22,34504,19825,General,"R.N.G. Patel Institute of Technology-RNGPIT , Bardoli",Civil Engineering
+2021-22,12138,5911,General,"R.N.G. Patel Institute of Technology-RNGPIT , Bardoli",Computer Science
+2021-22,24835,6821,General,"S.P.B. Patel Engg. College, (Saffrony), Linch, Mehsana",Computer Engineering
+2021-22,30071,8828,General,"S.P.B. Patel Engg. College, (Saffrony), Linch, Mehsana",Information Technology
+2021-22,29669,10375,General,"S.S.AGRAWAL INSTITUTE OF ENGINEERING & TECHNOLOGY
+NAVSARI",Computer Engineering
+2021-22,34575,21687,General,"S.S.AGRAWAL INSTITUTE OF ENGINEERING & TECHNOLOGY
+NAVSARI",Electrical Engineering
+2021-22,20893,6188,General,"SAL ENGINEERING &TECHNICAL INSTITUTE, SOLA, AHMEDABAD",Computer Engineering
+2021-22,17376,18294,General,"SAL ENGINEERING &TECHNICAL INSTITUTE, SOLA, AHMEDABAD",Computer Science
+2021-22,15476,5301,General,"SAL ENGINEERING &TECHNICAL INSTITUTE, SOLA, AHMEDABAD",Information Technology
+2021-22,19600,5919,General,"SARDAR PATEL COLLEGE OF ENGINEERING, BAKROL ANAND",Computer Engineering
+2021-22,21794,8909,General,"SCHOOL OF SCIENCE & ENGINEERING., Navrachana University,
+Vadodara",Computer Science
+2021-22,34246,6286,General,"SCHOOL OF TECHNOLOGY, GSFC UNIVERSITY, VADODARA",Chemical Engineering
+2021-22,19624,6900,General,"SCHOOL OF TECHNOLOGY, GSFC UNIVERSITY, VADODARA",Computer Science
+2021-22,26205,9286,General,"SHREE SWAMINARAYAN INSTITUTE OF TECHNOLOGY, BHAT,
+GANDHINAGAR",Computer Engineering
+2021-22,28017,8624,General,"SHREE SWAMINARAYAN INSTITUTE OF TECHNOLOGY, BHAT,
+GANDHINAGAR",Information Technology
+2021-22,31929,23159,General,"Sal College Of Engineering , Ahmedabad",Computer Engineering
+2021-22,29842,23303,General,"Sal College Of Engineering , Ahmedabad",Information Technology
+2021-22,17001,6613,General,"Sal Institute Of Tech. & Engg. Research, Ahmedabad",Computer Engineering
+2021-22,30813,5766,General,"Sal Institute Of Tech. & Engg. Research, Ahmedabad",Computer Science
+2021-22,27029,8837,General,"Sankalchand Patel College Of Engg., Visnagar",Computer Engineering
+2021-22,25872,6773,General,"Sardar Vallabhbhai Patel Institute Of Tech.,Vasad",AERONAUTICAL ENGINEERING
+2021-22,8831,2512,General,"Sardar Vallabhbhai Patel Institute Of Tech.,Vasad",Computer Engineering
+2021-22,15311,3350,General,"Sardar Vallabhbhai Patel Institute Of Tech.,Vasad",Information Technology
+2021-22,33773,15305,General,"Sardar Vallabhbhai Patel Institute Of Tech.,Vasad",Mechanical Engineering
+2021-22,33944,6359,General,"Sarvajanik College Of Engg. & Tech. , Surat",Chemical Engineering
+2021-22,32206,9328,General,"Sarvajanik College Of Engg. & Tech. , Surat",Civil Engineering
+2021-22,14214,1587,General,"Sarvajanik College Of Engg. & Tech. , Surat",Computer Engineering
+2021-22,33105,5562,General,"Sarvajanik College Of Engg. & Tech. , Surat",Electronics & Communication
+2021-22,33860,15746,General,"Sarvajanik College Of Engg. & Tech. , Surat",INSTRUMENTATION & CONTROL ENGINEERING
+2021-22,3856,1652,General,"Sarvajanik College Of Engg. & Tech. , Surat",Information Technology
+2021-22,9000,3639,General,"Sarvajanik College Of Engg. & Tech. , Surat",Mechanical Engineering
+2021-22,32757,6629,General,"Sarvajanik College Of Engg. & Tech. , Surat",Mechanical Engineering
+2021-22,8523,699,General,"School of Engg. and Applied Science, Ahmedabad University,
+Ahmedabad",Computer Science
+2021-22,14795,10543,General,"School of Engg. and Applied Science, Ahmedabad University,
+Ahmedabad",Mechanical Engineering
+2021-22,33296,9089,General,"Shankersinh Vaghela Bapu Institute Of Tech., Unava, Gandhinagar",Computer Engineering
+2021-22,34552,16509,General,"Shantilal Shah Engineering College ,Bhavnagar",Electrical Engineering
+2021-22,24976,5439,General,"Shantilal Shah Engineering College ,Bhavnagar",Information Technology
+2021-22,33784,9681,General,"Shri Labhubhai Trivedi Institute Of Engineering And Technology,
+Rajkot",Computer Science
+2021-22,33184,5953,General,"Shri Sadvidhya Mandal Institute Of Tech., Bharuch",Computer Science
+2021-22,34209,16743,General,"Shri Sitaram N Patel Inst. Of Tech. & Res. (Vidhyabharti Trust),
+Umrakh",Chemical Engineering
+2021-22,34551,34342,General,"Shri Sitaram N Patel Inst. Of Tech. & Res. (Vidhyabharti Trust),
+Umrakh",Civil Engineering
+2021-22,22286,7011,General,"Shri Sitaram N Patel Inst. Of Tech. & Res. (Vidhyabharti Trust),
+Umrakh",Computer Science
+2021-22,7544,2721,General,"Shri Swami Atmanand Saraswati Institute Of Tech., Surat",Computer Engineering
+2021-22,32602,12883,General,"Shroff S.R.Rotary Inst. Of Chemical Technology, Vatatia,Bharuch","Shroff S.R.Rotary Inst. Of Chemical Technology, Vatatia,Bharuch"
+2021-22,34080,11524,General,"Shroff S.R.Rotary Inst. Of Chemical Technology, Vatatia,Bharuch","Shroff S.R.Rotary Inst. Of Chemical Technology, Vatatia,Bharuch"
+2021-22,34584,7546,General,"Silver Oak College Of Engg., & Tech. (WITHIN AMHEDABAD
+MUNICIPAL CORPORATION LIMIT), Ahmedabad",Computer Engineering
+2021-22,34221,8127,General,"Silver Oak College Of Engg., & Tech. (WITHIN AMHEDABAD
+MUNICIPAL CORPORATION LIMIT), Ahmedabad",Information Technology
+2021-22,32678,10154,General,"Smt. S.R. Patel Engg. College, Dabhi, Unjha",Computer Engineering
+2021-22,19203,6159,General,"Unitedworld School of Computational Intelligence, Uvarsad,
+Gandhinagar",Computer Science
+2021-22,33374,577,General,"V.V.P. Engineering College, Rajkot",Computer Engineering
+2021-22,8160,1566,General,"V.V.P. Engineering College, Rajkot",Information Technology
+2021-22,33922,9072,General,"Vidush Somany Institute Of Tech. & Res., Kadi",Computer Engineering
+2021-22,33590,7922,General,"Vidush Somany Institute Of Tech. & Res., Kadi",Computer Science
+2021-22,33413,10059,General,"Vidush Somany Institute Of Tech. & Res., Kadi",Information Technology
+2021-22,14171,4082,General,"Vishwakarma Government Engineering College,
+Chandkheda,Gandhinagar",Chemical Engineering
+2021-22,21161,8260,General,"Vishwakarma Government Engineering College,
+Chandkheda,Gandhinagar",Civil Engineering
+2021-22,2184,871,General,"Vishwakarma Government Engineering College,
+Chandkheda,Gandhinagar",Computer Engineering
+2021-22,19953,8553,General,"Vishwakarma Government Engineering College,
+Chandkheda,Gandhinagar",Electrical Engineering
+2021-22,12231,5437,General,"Vishwakarma Government Engineering College,
+Chandkheda,Gandhinagar",Electronics & Communication
+2021-22,22792,12416,General,"Vishwakarma Government Engineering College,
+Chandkheda,Gandhinagar",INSTRUMENTATION & CONTROL ENGINEERING
+2021-22,2789,1101,General,"Vishwakarma Government Engineering College,
+Chandkheda,Gandhinagar",Information Technology
+2021-22,16425,6241,General,"Vishwakarma Government Engineering College,
+Chandkheda,Gandhinagar",Mechanical Engineering
+2021-22,32209,14812,General,"Vishwakarma Government Engineering College,
+Chandkheda,Gandhinagar",POWER ELECTRONICS
+2022-23,26010,8127,General,"A.D.Patel Institute Of
+Tech.,Karamsad",
+2022-23,13806,2539,General,"A.D.Patel Institute Of
+Tech.,Karamsad","COMPUTER
+ENGINEERING"
+2022-23,23184,4699,General,"A.D.Patel Institute Of
+Tech.,Karamsad","COMPUTER
+SCIENCE &
+DESIGN"
+2022-23,15823,7347,General,"A.D.Patel Institute Of
+Tech.,Karamsad","DAIRY
+TECHNOLOGY"
+2022-23,24244,7615,General,"A.D.Patel Institute Of
+Tech.,Karamsad","FOOD
+PROCESSING
+TECHNOLOGY"
+2022-23,14323,2735,General,"A.D.Patel Institute Of
+Tech.,Karamsad","INFORMATION
+TECHNOLOGY"
+2022-23,4718,1685,General,"ADANI INSTITUTE OF
+INFRASTRUCTURE
+ENGINEERING,AHMED
+ABAD","COMPUTER
+SCIENCE &
+ENGINEERING
+(ARTIFICIAL
+INTELLIGENCE
+AND MACHINE
+LEARNING)"
+2022-23,6674,2111,General,"ADANI INSTITUTE OF
+INFRASTRUCTURE
+ENGINEERING,AHMED
+ABAD","INFORMATION
+&
+COMMUNICATI
+ON
+TECHNOLOGY"
+2022-23,26632,11302,General,"ADITYA SILVER OAK
+INSTITUTE OF
+TECHNOLOGY (WITHIN
+LIMITS OF
+AHMEDABAD
+MUNICIPAL
+CORPORATION)
+AHMEDABAD","COMPUTER
+ENGINEERING"
+2022-23,26773,9613,General,"ADITYA SILVER OAK
+INSTITUTE OF
+TECHNOLOGY (WITHIN
+LIMITS OF
+AHMEDABAD
+MUNICIPAL
+CORPORATION)
+AHMEDABAD","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,23727,6960,General,"ADITYA SILVER OAK
+INSTITUTE OF
+TECHNOLOGY (WITHIN
+LIMITS OF
+AHMEDABAD
+MUNICIPAL
+CORPORATION)
+AHMEDABAD","INFORMATION
+&
+COMMUNICATI
+ON
+TECHNOLOGY"
+2022-23,25794,10489,General,"ADITYA SILVER OAK
+INSTITUTE OF
+TECHNOLOGY (WITHIN
+LIMITS OF
+AHMEDABAD
+MUNICIPAL
+CORPORATION)
+AHMEDABAD","INFORMATION
+TECHNOLOGY"
+2022-23,26101,8900,General,"APOLLO INSTITUTE OF
+ENGINEERING &
+TECHNOLOGY
+AHMEDABAD","COMPUTER
+ENGINEERING"
+2022-23,26741,10840,General,"APOLLO INSTITUTE OF
+ENGINEERING &
+TECHNOLOGY
+AHMEDABAD","INFORMATION
+TECHNOLOGY"
+2022-23,26735,6048,General,"Ahmedabad Institute
+Of Tech, Ahmedabad","COMPUTER
+ENGINEERING"
+2022-23,26772,8948,General,"Ahmedabad Institute
+Of Tech, Ahmedabad","COMPUTER
+SCIENCE &
+ENGINEERING
+(CYBER
+SECURITY)"
+2022-23,26717,7961,General,"Ahmedabad Institute
+Of Tech, Ahmedabad","COMPUTER
+SCIENCE &
+ENGINEERING
+(DATA SCIENCE)"
+2022-23,25811,7956,General,"Ahmedabad Institute
+Of Tech, Ahmedabad","INFORMATION
+TECHNOLOGY"
+2022-23,26056,6707,General,"Ahmedabad Institute
+Of Tech, Ahmedabad","INFORMATION
+TECHNOLOGY"
+2022-23,25255,11805,General,"Asha M. Tarsadia
+Institute of Computer
+Science & Tech.
+Bardoli","Asha M. Tarsadia
+Institute of Computer
+Science & Tech.
+Bardoli"
+2022-23,26723,9809,General,"Asha M. Tarsadia
+Institute of Computer
+Science & Tech.
+Bardoli","Asha M. Tarsadia
+Institute of Computer
+Science & Tech.
+Bardoli"
+2022-23,25889,13877,General,"Asha M. Tarsadia
+Institute of Computer
+Science & Tech.
+Bardoli","Asha M. Tarsadia
+Institute of Computer
+Science & Tech.
+Bardoli"
+2022-23,15567,10881,General,"Asha M. Tarsadia
+Institute of Computer
+Science & Tech.
+Bardoli","Asha M. Tarsadia
+Institute of Computer
+Science & Tech.
+Bardoli"
+2022-23,26803,9346,General,"Asha M. Tarsadia
+Institute of Computer
+Science & Tech.
+Bardoli","Asha M. Tarsadia
+Institute of Computer
+Science & Tech.
+Bardoli"
+2022-23,25618,6673,General,"Atmiya University,
+Faculty of Engineering
+and Technology,
+Rajkot","COMPUTER
+ENGINEERING"
+2022-23,23072,7985,General,"Atmiya University,
+Faculty of Engineering
+and Technology,
+Rajkot","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,23254,7193,General,"Atmiya University,
+Faculty of Engineering
+and Technology,
+Rajkot","INFORMATION
+TECHNOLOGY"
+2022-23,25326,14719,General,"Bhagwan Arihant
+Institute of Tech.,
+Surat","COMPUTER
+ENGINEERING"
+2022-23,26024,12375,General,"Bhagwan Arihant
+Institute of Tech.,
+Surat","INFORMATION
+TECHNOLOGY"
+2022-23,26605,13368,General,"Bhagwan Mahavir
+College Of Engg. And
+Tech., Surat","COMPUTER
+ENGINEERING"
+2022-23,17005,5829,General,"C. K. Pithawala College
+Of Engg. & Tech., Surat","COMPUTER
+ENGINEERING"
+2022-23,26388,12766,General,"C. K. Pithawala College
+Of Engg. & Tech., Surat","ELECTRICAL
+ENGINEERING"
+2022-23,18622,6031,General,"C. K. Pithawala College
+Of Engg. & Tech., Surat","INFORMATION
+TECHNOLOGY"
+2022-23,14544,914613,General,"CIVIL
+ENGINEERING","CIVIL
+ENGINEERING"
+2022-23,772,900315,General,"COMPUTER
+ENGINEERING","COMPUTER
+ENGINEERING"
+2022-23,9078,1138,General,"Chandubhai S Patel
+Institute Of
+Technology, Changa","COMPUTER
+ENGINEERING"
+2022-23,2592,1114,General,"Chandubhai S Patel
+Institute Of
+Technology, Changa","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,7070,4769,General,"Chandubhai S Patel
+Institute Of
+Technology, Changa","INFORMATION
+TECHNOLOGY"
+2022-23,12239,1546,General,"Chandubhai S Patel
+Institute Of
+Technology, Changa","INFORMATION
+TECHNOLOGY"
+2022-23,26797,10964,General,"Chhotubhai Gopalbhai
+Patel Institute Of
+Tech., Tarsadi, Bardoli","COMPUTER
+ENGINEERING"
+2022-23,25521,9508,General,"Chhotubhai Gopalbhai
+Patel Institute Of
+Tech., Tarsadi, Bardoli","INFORMATION
+TECHNOLOGY"
+2022-23,26572,10210,General,"Chhotubhai Gopalbhai
+Patel Institute Of
+Tech., Tarsadi, Bardoli","INFORMATION
+TECHNOLOGY"
+2022-23,914418,905058,General,"DR. S & S.S.Ghandhi
+Government
+Engineering College
+Surat","CIVIL
+ENGINEERING"
+2022-23,18080,914089,General,"DR. S & S.S.Ghandhi
+Government
+Engineering College
+Surat","ELECTRICAL
+ENGINEERING"
+2022-23,8875,902069,General,"DR. S & S.S.Ghandhi
+Government
+Engineering College
+Surat","ELECTRONICS &
+COMMUNICATI
+ON
+ENGINEERING"
+2022-23,913864,913934,General,"DR. S & S.S.Ghandhi
+Government
+Engineering College
+Surat","ELECTRONICS &
+INSTRUMENTAT
+ION
+ENGINEERING"
+2022-23,912469,913659,General,"DR. S & S.S.Ghandhi
+Government
+Engineering College
+Surat","ELECTRONICS &
+INSTRUMENTAT
+ION
+ENGINEERING"
+2022-23,902901,901805,General,"DR. S & S.S.Ghandhi
+Government
+Engineering College
+Surat","MECHANICAL
+ENGINEERING"
+2022-23,10025,1879,General,"Darshan Institute Of
+Engg. & Tech., Rajkot-
+Morbi Highway,
+Hadala","COMPUTER
+ENGINEERING"
+2022-23,6732,4719,General,"Department of
+Engineering and
+Computing , Institute
+of Advance Research,
+Gandhinagar","COMPUTER
+ENGINEERING"
+2022-23,26722,9519,General,"Department of
+Engineering and
+Computing , Institute
+of Advance Research,
+Gandhinagar","COMPUTER
+ENGINEERING"
+2022-23,26504,9085,General,"Department of
+Engineering and
+Computing , Institute
+of Advance Research,
+Gandhinagar","INFORMATION
+TECHNOLOGY"
+2022-23,18458,1746,General,"Devang Patel Institute
+of Advance
+Technology And
+Research, Changa","COMPUTER
+ENGINEERING"
+2022-23,15411,1641,General,"Devang Patel Institute
+of Advance
+Technology And
+Research, Changa","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,5059,1815,General,"Devang Patel Institute
+of Advance
+Technology And
+Research, Changa","INFORMATION
+TECHNOLOGY"
+2022-23,1436,41,General,"Dhirubhai Ambani
+Institute of Info. &
+Comm. Tech.,
+Gandhinagar","INFORMATION
+&
+COMMUNICATI
+ON
+TECHNOLOGY"
+2022-23,191,35,General,"Dhirubhai Ambani
+Institute of Info. &
+Comm. Tech.,
+Gandhinagar","INFORMATION
+&
+COMMUNICATI
+ON
+TECHNOLOGY"
+2022-23,931,16,General,"Dhirubhai Ambani
+Institute of Info. &
+Comm. Tech.,
+Gandhinagar","INFORMATION
+TECHNOLOGY"
+2022-23,24345,11708,General,"Dr. Jivraj Mehta
+Institute Of
+Technology, Anand","INFORMATION
+TECHNOLOGY"
+2022-23,12740,14560,General,"Dr. Subhahsh
+Technical Campus,
+Faculty of Degree
+Engineering, Junagadh","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,7214,902623,General,"ELECTRICAL
+ENGINEERING","ELECTRICAL
+ENGINEERING"
+2022-23,13650,901369,General,"ELECTRONICS
+ENGINEERING","ELECTRONICS
+ENGINEERING"
+2022-23,25973,8950,General,"ELECTRONICS &
+COMMUNICATI
+ON
+ENGINEERING","ELECTRONICS &
+COMMUNICATI
+ON
+ENGINEERING"
+2022-23,26710,3942,General,"Faculty Of
+Technology(Sfi),
+Dharmsinh Desai
+University, Nadiad","CHEMICAL
+ENGINEERING"
+2022-23,625,384,General,"Faculty Of
+Technology(Sfi),
+Dharmsinh Desai
+University, Nadiad","COMPUTER
+ENGINEERING"
+2022-23,22873,5698,General,"Faculty Of
+Technology(Sfi),
+Dharmsinh Desai
+University, Nadiad","ELECTRONICS &
+COMMUNICATI
+ON
+ENGINEERING"
+2022-23,10116,539,General,"Faculty Of
+Technology(Sfi),
+Dharmsinh Desai
+University, Nadiad","INFORMATION
+TECHNOLOGY"
+2022-23,26548,18895,General,"Faculty Of
+Technology(Sfi),
+Dharmsinh Desai
+University, Nadiad","MECHANICAL
+ENGINEERING"
+2022-23,895,901190,General,"Faculty Of Technology
+& Engineering(MSU),
+Vadodara","CHEMICAL
+ENGINEERING"
+2022-23,901672,904216,General,"Faculty Of Technology
+& Engineering(MSU),
+Vadodara","CIVIL
+ENGINEERING"
+2022-23,452,900097,General,"Faculty Of Technology
+& Engineering(MSU),
+Vadodara","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,900503,901982,General,"Faculty Of Technology
+& Engineering(MSU),
+Vadodara","ELECTRICAL
+ENGINEERING"
+2022-23,4425,900484,General,"Faculty Of Technology
+& Engineering(MSU),
+Vadodara","ELECTRONICS
+ENGINEERING"
+2022-23,4132,900985,General,"Faculty Of Technology
+& Engineering(MSU),
+Vadodara","MECHANICAL
+ENGINEERING"
+2022-23,17954,911617,General,"Faculty Of Technology
+& Engineering(MSU),
+Vadodara","MECHANICAL
+ENGINEERING"
+2022-23,15832,913298,General,"Faculty Of Technology
+& Engineering(MSU),
+Vadodara","TEXTILE
+ENGINEERING"
+2022-23,24433,16865,General,"Faculty Of Technology
+& Engineering(MSU),
+Vadodara","TEXTILE
+TECHNOLOGY"
+2022-23,24315,900961,General,"Faculty Of Technology
+& Engineering(MSU),
+Vadodara","TEXTILE
+TECHNOLOGY"
+2022-23,2282,900607,General,"Faculty Of Technology
+And Engineering(GIA),
+Dharmsinh Desai
+University, (DDU),
+Nadiad","CHEMICAL
+ENGINEERING"
+2022-23,11382,914539,General,"Faculty Of Technology
+And Engineering(GIA),
+Dharmsinh Desai
+University, (DDU),
+Nadiad","CIVIL
+ENGINEERING"
+2022-23,900037,900181,General,"Faculty Of Technology
+And Engineering(GIA),
+Dharmsinh Desai
+University, (DDU),
+Nadiad","COMPUTER
+ENGINEERING"
+2022-23,2369,900881,General,"Faculty Of Technology
+And Engineering(GIA),
+Dharmsinh Desai
+University, (DDU),
+Nadiad","ELECTRONICS &
+COMMUNICATI
+ON
+ENGINEERING"
+2022-23,7498,906773,General,"Faculty Of Technology
+And Engineering(GIA),
+Dharmsinh Desai
+University, (DDU),
+Nadiad","ELECTRONICS &
+COMMUNICATI
+ON
+ENGINEERING"
+2022-23,26734,6368,General,"Faculty of Engineering
+& Technology- GLS
+University,
+Ahmedabad","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,19353,19187,General,"G.H.Patel College Of
+Engg. & Tech. , V. V.
+Nagar","CHEMICAL
+ENGINEERING"
+2022-23,13996,1548,General,"G.H.Patel College Of
+Engg. & Tech. , V. V.
+Nagar","COMPUTER
+ENGINEERING"
+2022-23,10545,3088,General,"G.H.Patel College Of
+Engg. & Tech. , V. V.
+Nagar","COMPUTER
+SCIENCE &
+DESIGN"
+2022-23,8566,2782,General,"G.H.Patel College Of
+Engg. & Tech. , V. V.
+Nagar","COMPUTER
+SCIENCE &
+ENGINEERING
+(IOT)"
+2022-23,4364,1703,General,"G.H.Patel College Of
+Engg. & Tech. , V. V.
+Nagar","INFORMATION
+TECHNOLOGY"
+2022-23,26621,12694,General,"G.H.Patel College Of
+Engg. & Tech. , V. V.
+Nagar","INFORMATION
+TECHNOLOGY"
+2022-23,26066,5584,General,"GIDC Degree
+Engineering College,
+Abrama, Navsari","COMPUTER
+ENGINEERING"
+2022-23,26346,8599,General,"GYANMANJARI
+INSTITUTE OF
+TECHNOLOGY
+Bhavnagar","COMPUTER
+ENGINEERING"
+2022-23,26628,8994,General,"GYANMANJARI
+INSTITUTE OF
+TECHNOLOGY
+Bhavnagar","INFORMATION
+TECHNOLOGY"
+2022-23,26593,9162,General,"Gandhinagar Institute
+Of Technology, Moti
+Bhoyan, Kalol,
+Gandhinagar","COMPUTER
+ENGINEERING"
+2022-23,25910,10614,General,"Gandhinagar Institute
+Of Technology, Moti
+Bhoyan, Kalol,
+Gandhinagar","INFORMATION
+TECHNOLOGY"
+2022-23,24213,5099,General,"Ganpat University,
+Institute of Computer
+Tech., Kherva,
+Mehsana","Ganpat University,
+Institute of Computer
+Tech., Kherva,
+Mehsana"
+2022-23,23121,12263,General,"Ganpat University,
+Institute of Computer
+Tech., Kherva,
+Mehsana","Ganpat University,
+Institute of Computer
+Tech., Kherva,
+Mehsana"
+2022-23,25598,15230,General,"Ganpat University,
+Institute of Computer
+Tech., Kherva,
+Mehsana","Ganpat University,
+Institute of Computer
+Tech., Kherva,
+Mehsana"
+2022-23,26607,14013,General,"Ganpat University,
+Institute of Computer
+Tech., Kherva,
+Mehsana","Ganpat University,
+Institute of Computer
+Tech., Kherva,
+Mehsana"
+2022-23,20503,6386,General,"Ganpat University,
+Institute of Computer
+Tech., Kherva,
+Mehsana","Ganpat University,
+Institute of Computer
+Tech., Kherva,
+Mehsana"
+2022-23,26707,4771,General,"Ganpat University,
+U.V.Patel College of
+Engineering, Kherva,
+Mehsana","COMPUTER
+ENGINEERING"
+2022-23,24462,4834,General,"Ganpat University,
+U.V.Patel College of
+Engineering, Kherva,
+Mehsana","COMPUTER
+ENGINEERING
+(ARTIFICIAL
+INTELLIGENCE)"
+2022-23,25449,8363,General,"Ganpat University,
+U.V.Patel College of
+Engineering, Kherva,
+Mehsana","COMPUTER
+SCIENCE &
+BUSINESS
+SYSTEMS"
+2022-23,25410,1876,General,"Ganpat University,
+U.V.Patel College of
+Engineering, Kherva,
+Mehsana","Ganpat University,
+Institute of Computer
+Tech., Kherva,
+Mehsana"
+2022-23,26718,3957,General,"Ganpat University,
+U.V.Patel College of
+Engineering, Kherva,
+Mehsana","INFORMATION
+TECHNOLOGY"
+2022-23,7353,904276,General,"Government
+Engineering College,
+Bharuch","CHEMICAL
+ENGINEERING"
+2022-23,914262,914566,General,"Government
+Engineering College,
+Bharuch","CIVIL
+ENGINEERING"
+2022-23,4618,900989,General,"Government
+Engineering College,
+Bharuch","COMPUTER
+ENGINEERING"
+2022-23,25655,913022,General,"Government
+Engineering College,
+Bharuch","ELECTRICAL
+ENGINEERING"
+2022-23,914437,906063,General,"Government
+Engineering College,
+Bharuch","ELECTRONICS &
+COMMUNICATI
+ON
+ENGINEERING"
+2022-23,909722,911684,General,"Government
+Engineering College,
+Bharuch","MECHANICAL
+ENGINEERING"
+2022-23,11323,914495,General,"Government
+Engineering College,
+Bhavnagar","CIVIL
+ENGINEERING"
+2022-23,3425,900779,General,"Government
+Engineering College,
+Bhavnagar","COMPUTER
+ENGINEERING"
+2022-23,16472,914455,General,"Government
+Engineering College,
+Bhavnagar","ELECTRONICS &
+COMMUNICATI
+ON
+ENGINEERING"
+2022-23,901539,903170,General,"Government
+Engineering College,
+Bhavnagar","INFORMATION
+&
+COMMUNICATI
+ON
+TECHNOLOGY"
+2022-23,3394,901193,General,"Government
+Engineering College,
+Bhavnagar","INFORMATION
+TECHNOLOGY"
+2022-23,912797,911286,General,"Government
+Engineering College,
+Bhavnagar","MECHANICAL
+ENGINEERING"
+2022-23,21729,913141,General,"Government
+Engineering College,
+Bhuj","CHEMICAL
+ENGINEERING"
+2022-23,22887,913933,General,"Government
+Engineering College,
+Bhuj","CIVIL
+ENGINEERING"
+2022-23,26752,913962,General,"Government
+Engineering College,
+Bhuj","ELECTRICAL
+ENGINEERING"
+2022-23,26614,912654,General,"Government
+Engineering College,
+Bhuj","MECHANICAL
+ENGINEERING"
+2022-23,26503,16378,General,"Government
+Engineering College,
+Dahod","CIVIL
+ENGINEERING"
+2022-23,902066,904757,General,"Government
+Engineering College,
+Dahod","COMPUTER
+ENGINEERING"
+2022-23,19110,912236,General,"Government
+Engineering College,
+Dahod","ELECTRICAL
+ENGINEERING"
+2022-23,23772,913761,General,"Government
+Engineering College,
+Dahod","MECHANICAL
+ENGINEERING"
+2022-23,25515,914280,General,"Government
+Engineering College,
+Godhra","CIVIL
+ENGINEERING"
+2022-23,23462,904779,General,"Government
+Engineering College,
+Godhra","ELECTRICAL
+ENGINEERING"
+2022-23,23647,912338,General,"Government
+Engineering College,
+Modasa","CIVIL
+ENGINEERING"
+2022-23,901773,901028,General,"Government
+Engineering College,
+Modasa","COMPUTER
+ENGINEERING"
+2022-23,26380,914541,General,"Government
+Engineering College,
+Modasa","ELECTRICAL
+ENGINEERING"
+2022-23,19487,913850,General,"Government
+Engineering College,
+Modasa","ELECTRONICS &
+COMMUNICATI
+ON
+ENGINEERING"
+2022-23,7365,901948,General,"Government
+Engineering College,
+Modasa","INFORMATION
+TECHNOLOGY"
+2022-23,26052,913296,General,"Government
+Engineering College,
+Modasa","MECHANICAL
+ENGINEERING"
+2022-23,17549,912569,General,"Government
+Engineering College,
+Palanpur","CIVIL
+ENGINEERING"
+2022-23,24964,909479,General,"Government
+Engineering College,
+Palanpur","ELECTRICAL
+ENGINEERING"
+2022-23,25621,909514,General,"Government
+Engineering College,
+Palanpur","MECHANICAL
+ENGINEERING"
+2022-23,25795,914029,General,"Government
+Engineering College,
+Patan","CIVIL
+ENGINEERING"
+2022-23,902210,902319,General,"Government
+Engineering College,
+Patan","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,14283,911835,General,"Government
+Engineering College,
+Patan","ELECTRICAL
+ENGINEERING"
+2022-23,24854,913780,General,"Government
+Engineering College,
+Patan","ELECTRONICS &
+COMMUNICATI
+ON
+ENGINEERING"
+2022-23,26534,910918,General,"Government
+Engineering College,
+Patan","MECHANICAL
+ENGINEERING"
+2022-23,21029,914102,General,"Government
+Engineering College,
+Rajkot","AUTOMOBILE
+ENGINEERING"
+2022-23,12737,914157,General,"Government
+Engineering College,
+Rajkot","CIVIL
+ENGINEERING"
+2022-23,3355,900950,General,"Government
+Engineering College,
+Rajkot","COMPUTER
+ENGINEERING"
+2022-23,14706,914425,General,"Government
+Engineering College,
+Rajkot","ELECTRICAL
+ENGINEERING"
+2022-23,914170,907340,General,"Government
+Engineering College,
+Rajkot","ELECTRONICS &
+COMMUNICATI
+ON
+ENGINEERING"
+2022-23,26334,912708,General,"Government
+Engineering College,
+Rajkot","ELECTRONICS &
+COMMUNICATI
+ON
+ENGINEERING"
+2022-23,9669,901490,General,"Government
+Engineering College,
+Rajkot","MECHANICAL
+ENGINEERING"
+2022-23,10990,914017,General,"Government
+Engineering College,
+Rajkot","MECHANICAL
+ENGINEERING"
+2022-23,914474,905311,General,"Government
+Engineering College,
+Rajkot","MECHANICAL
+ENGINEERING"
+2022-23,913425,913021,General,"Government
+Engineering College,
+Sector 28 Gandhinagar","BIOMEDICAL
+ENGINEERING"
+2022-23,13402,904702,General,"Government
+Engineering College,
+Sector 28 Gandhinagar","CIVIL
+ENGINEERING"
+2022-23,1910,900555,General,"Government
+Engineering College,
+Sector 28 Gandhinagar","COMPUTER
+ENGINEERING"
+2022-23,13143,903758,General,"Government
+Engineering College,
+Sector 28 Gandhinagar","ELECTRONICS &
+COMMUNICATI
+ON
+ENGINEERING"
+2022-23,2344,900843,General,"Government
+Engineering College,
+Sector 28 Gandhinagar","INFORMATION
+TECHNOLOGY"
+2022-23,17508,914416,General,"Government
+Engineering College,
+Sector 28 Gandhinagar","INFORMATION
+TECHNOLOGY"
+2022-23,13602,914559,General,"Government
+Engineering College,
+Sector 28 Gandhinagar","MECHANICAL
+ENGINEERING"
+2022-23,20751,912977,General,"Government
+Engineering College,
+Sector 28 Gandhinagar",METALLURGY
+2022-23,905451,903128,General,"Government
+Engineering College,
+Sector 28 Gandhinagar",METALLURGY
+2022-23,15790,914310,General,"Government
+Engineering College,
+Valsad","CHEMICAL
+ENGINEERING"
+2022-23,914359,907524,General,"Government
+Engineering College,
+Valsad","CIVIL
+ENGINEERING"
+2022-23,15691,913810,General,"Government
+Engineering College,
+Valsad","ELECTRICAL
+ENGINEERING"
+2022-23,26002,913558,General,"Government
+Engineering College,
+Valsad","ELECTRICAL
+ENGINEERING"
+2022-23,18044,914612,General,"Government
+Engineering College,
+Valsad","MECHANICAL
+ENGINEERING"
+2022-23,24241,15729,General,"Grow More Faculty of
+Engineering, Berna,
+Himmatnagar","COMPUTER
+ENGINEERING"
+2022-23,26635,9068,General,"Gujarat Power Engg.
+And Res. Inst. (Gperi)
+(Ppp), Mevad,
+Mehsana","COMPUTER
+ENGINEERING"
+2022-23,22634,16783,General,"Gujarat Power Engg.
+And Res. Inst. (Gperi)
+(Ppp), Mevad,
+Mehsana","COMPUTER
+ENGINEERING-
+GUJARATI"
+2022-23,2495,1792,General,"INFORMATION
+TECHNOLOGY","INFORMATION
+TECHNOLOGY"
+2022-23,26602,9966,General,"ITM (SLS) Baroda
+University (Formerly
+Known as ITM
+Universe), Vadodara","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,24987,12422,General,"ITM (SLS) Baroda
+University (Formerly
+Known as ITM
+Universe), Vadodara","COMPUTER
+SCIENCE &
+ENGINEERING
+(CYBER
+SECURITY)"
+2022-23,24561,9146,General,"ITM (SLS) Baroda
+University (Formerly
+Known as ITM
+Universe), Vadodara","INFORMATION
+TECHNOLOGY"
+2022-23,26580,5340,General,"Indus Institute Of
+Tech. & Engg.,
+Racharda, Ahmedabad","COMPUTER
+ENGINEERING"
+2022-23,26779,5020,General,"Indus Institute Of
+Tech. & Engg.,
+Racharda, Ahmedabad","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,24436,18094,General,"Indus Institute Of
+Tech. & Engg.,
+Racharda, Ahmedabad","ELECTRONICS &
+COMMUNICATI
+ON
+ENGINEERING"
+2022-23,24707,12630,General,"Indus Institute Of
+Tech. & Engg.,
+Racharda, Ahmedabad","INFORMATION
+&
+COMMUNICATI
+ON
+TECHNOLOGY"
+2022-23,26474,5402,General,"Indus Institute Of
+Tech. & Engg.,
+Racharda, Ahmedabad","INFORMATION
+TECHNOLOGY"
+2022-23,24391,21580,General,"Indus Institute Of
+Tech. & Engg.,
+Racharda, Ahmedabad","MECHANICAL
+ENGINEERING"
+2022-23,18393,1420,General,"Institute Of
+Technology, Nirma
+University Of Science
+& Technology,
+Ahmedabad","CHEMICAL
+ENGINEERING"
+2022-23,26501,3831,General,"Institute Of
+Technology, Nirma
+University Of Science
+& Technology,
+Ahmedabad","CIVIL
+ENGINEERING"
+2022-23,4918,182,General,"Institute Of
+Technology, Nirma
+University Of Science
+& Technology,
+Ahmedabad","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,24937,1893,General,"Institute Of
+Technology, Nirma
+University Of Science
+& Technology,
+Ahmedabad","ELECTRICAL
+ENGINEERING"
+2022-23,11410,1483,General,"Institute Of
+Technology, Nirma
+University Of Science
+& Technology,
+Ahmedabad","ELECTRONICS &
+COMMUNICATI
+ON
+ENGINEERING"
+2022-23,10274,5933,General,"Institute Of
+Technology, Nirma
+University Of Science
+& Technology,
+Ahmedabad","ELECTRONICS &
+INSTRUMENTAT
+ION
+ENGINEERING"
+2022-23,25959,2345,General,"Institute Of
+Technology, Nirma
+University Of Science
+& Technology,
+Ahmedabad","MECHANICAL
+ENGINEERING"
+2022-23,21206,21120,General,"Institute of
+Infrastructure, Tech.,
+Research &
+Management
+(IITRAM), Maninagar,
+Ahmedabad","CIVIL
+ENGINEERING"
+2022-23,5737,3369,General,"Institute of
+Infrastructure, Tech.,
+Research &
+Management
+(IITRAM), Maninagar,
+Ahmedabad","COMPUTER
+ENGINEERING"
+2022-23,26502,18906,General,"Institute of
+Infrastructure, Tech.,
+Research &
+Management
+(IITRAM), Maninagar,
+Ahmedabad","ELECTRICAL
+ENGINEERING"
+2022-23,26284,16544,General,"Institute of
+Infrastructure, Tech.,
+Research &
+Management
+(IITRAM), Maninagar,
+Ahmedabad","MECHANICAL
+ENGINEERING"
+2022-23,26745,8837,General,"Krishna School of
+Emerging Technology
+& Applied Research
+(Formerly Known as
+Babaria Institute Of
+Technology) ,
+Varnama, Vadodara","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,25551,8300,General,"Krishna School of
+Emerging Technology
+& Applied Research
+(Formerly Known as
+Babaria Institute Of
+Technology) ,
+Varnama, Vadodara","INFORMATION
+TECHNOLOGY"
+2022-23,11107,914253,General,"L.D.College Of
+Engineering,
+Ahmedabad","AUTOMOBILE
+ENGINEERING"
+2022-23,15106,913979,General,"L.D.College Of
+Engineering,
+Ahmedabad","BIOMEDICAL
+ENGINEERING"
+2022-23,901752,902082,General,"L.D.College Of
+Engineering,
+Ahmedabad","CHEMICAL
+ENGINEERING"
+2022-23,3689,902290,General,"L.D.College Of
+Engineering,
+Ahmedabad","CIVIL
+ENGINEERING"
+2022-23,293,900122,General,"L.D.College Of
+Engineering,
+Ahmedabad","COMPUTER
+ENGINEERING"
+2022-23,6348,901245,General,"L.D.College Of
+Engineering,
+Ahmedabad","ELECTRICAL
+ENGINEERING"
+2022-23,900609,900660,General,"L.D.College Of
+Engineering,
+Ahmedabad","ELECTRONICS &
+COMMUNICATI
+ON
+ENGINEERING"
+2022-23,914515,907512,General,"L.D.College Of
+Engineering,
+Ahmedabad","ELECTRONICS &
+COMMUNICATI
+ON
+ENGINEERING"
+2022-23,1753,900526,General,"L.D.College Of
+Engineering,
+Ahmedabad","INFORMATION
+TECHNOLOGY"
+2022-23,900342,900050,General,"L.D.College Of
+Engineering,
+Ahmedabad","INFORMATION
+TECHNOLOGY"
+2022-23,4910,901294,General,"L.D.College Of
+Engineering,
+Ahmedabad","INFORMATION
+TECHNOLOGY"
+2022-23,4056,901257,General,"L.D.College Of
+Engineering,
+Ahmedabad","MECHANICAL
+ENGINEERING"
+2022-23,19888,913876,General,"L.D.College Of
+Engineering,
+Ahmedabad","PLASTIC
+TECHNOLOGY"
+2022-23,4051,900816,General,"L.D.College Of
+Engineering,
+Ahmedabad","PLASTIC
+TECHNOLOGY"
+2022-23,10714,914571,General,"L.D.College Of
+Engineering,
+Ahmedabad","RUBBER
+TECHNOLOGY"
+2022-23,19192,911492,General,"L.D.College Of
+Engineering,
+Ahmedabad","TEXTILE
+TECHNOLOGY"
+2022-23,18507,25732,General,"L.D.R.P. Institute Of
+Tech. & Research.,
+Gandhinagar","CIVIL
+ENGINEERING"
+2022-23,26087,3623,General,"L.D.R.P. Institute Of
+Tech. & Research.,
+Gandhinagar","COMPUTER
+ENGINEERING"
+2022-23,23281,4255,General,"L.D.R.P. Institute Of
+Tech. & Research.,
+Gandhinagar","INFORMATION
+TECHNOLOGY"
+2022-23,914514,904674,General,"L.E.College ,Morbi","CHEMICAL
+ENGINEERING"
+2022-23,19248,913343,General,"L.E.College ,Morbi","CIVIL
+ENGINEERING"
+2022-23,22511,909303,General,"L.E.College ,Morbi","ELECTRICAL
+ENGINEERING"
+2022-23,7552,902190,General,"L.E.College ,Morbi","INFORMATION
+TECHNOLOGY"
+2022-23,24753,914324,General,"L.E.College ,Morbi","MECHANICAL
+ENGINEERING"
+2022-23,22055,3168,General,"L.J. Institute Of Engg
+And Tech.,
+Ahmedabad","COMPUTER
+ENGINEERING"
+2022-23,25073,5190,General,"L.J. Institute Of Engg
+And Tech.,
+Ahmedabad","COMPUTER
+ENGINEERING &
+APPLICATION"
+2022-23,25438,5386,General,"L.J. Institute Of Engg
+And Tech.,
+Ahmedabad","COMPUTER
+SCIENCE &
+DESIGN"
+2022-23,21049,3576,General,"L.J. Institute Of Engg
+And Tech.,
+Ahmedabad","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,15752,4907,General,"L.J. Institute Of Engg
+And Tech.,
+Ahmedabad","COMPUTER
+SCIENCE &
+INFORMATION
+TECHNOLOGY"
+2022-23,14665,4191,General,"L.J. Institute Of Engg
+And Tech.,
+Ahmedabad","COMPUTER
+SCIENCE &
+TECHNOLOGY"
+2022-23,21038,2989,General,"L.J. Institute Of Engg
+And Tech.,
+Ahmedabad","INFORMATION
+TECHNOLOGY"
+2022-23,26738,4696,General,"L.J. Institute Of Engg
+And Tech.,
+Ahmedabad","MECHANICAL
+ENGINEERING"
+2022-23,26308,6338,General,"L.J. Institute Of Engg
+And Tech.,
+Ahmedabad","MECHANICAL
+ENGINEERING"
+2022-23,26636,25299,General,"L.J. Institute Of Engg
+And Tech.,
+Ahmedabad","MECHANICAL
+ENGINEERING"
+2022-23,26763,10847,General,"Laxmi Institute Of
+Technology, Sarigam,
+Valsad","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,25792,12092,General,"Laxmi Institute Of
+Technology, Sarigam,
+Valsad","INFORMATION
+TECHNOLOGY"
+2022-23,902851,904109,General,"MECHANICAL
+ENGINEERING","MECHANICAL
+ENGINEERING"
+2022-23,21605,13391,General,"MECHANICAL
+ENGINEERING","MECHANICAL
+ENGINEERING"
+2022-23,26525,5845,General,"Madhuben &
+Bhanubhai Patel
+Institute of
+Technology, New
+V.V.Nagar","COMPUTER
+ENGINEERING"
+2022-23,26282,5543,General,"Madhuben &
+Bhanubhai Patel
+Institute of
+Technology, New
+V.V.Nagar","INFORMATION
+TECHNOLOGY"
+2022-23,26362,14458,General,"Mahatma Gandhi
+Inst.Of Technical Edu.
+And Research
+Center,Navasari","COMPUTER
+ENGINEERING"
+2022-23,26020,14212,General,"Mahavir Swami
+College Of Engineering
+& Technology,
+Bharthana-Vesu, Surat","COMPUTER
+ENGINEERING"
+2022-23,26615,6155,General,"Marwadi Edu.
+Foundation Group Of
+Institutions, Faculty Of
+Engg., Rajkot","COMPUTER
+ENGINEERING"
+2022-23,25328,6421,General,"Marwadi Edu.
+Foundation Group Of
+Institutions, Faculty Of
+Engg., Rajkot","INFORMATION
+TECHNOLOGY"
+2022-23,26761,6798,General,"Marwadi Edu.
+Foundation Group Of
+Institutions, Faculty Of
+Tech., Rajkot","COMPUTER
+ENGINEERING"
+2022-23,24626,8118,General,"Marwadi Edu.
+Foundation Group Of
+Institutions, Faculty Of
+Tech., Rajkot","COMPUTER
+ENGINEERING
+(ARTIFICIAL
+INTELLIGENCE)"
+2022-23,26341,5320,General,"Marwadi Edu.
+Foundation Group Of
+Institutions, Faculty Of
+Tech., Rajkot","INFORMATION
+&
+COMMUNICATI
+ON
+TECHNOLOGY"
+2022-23,13298,8386,General,"Marwadi Edu.
+Foundation Group Of
+Institutions, Faculty Of
+Tech., Rajkot","INFORMATION
+TECHNOLOGY"
+2022-23,26713,6446,General,"Marwadi Edu.
+Foundation Group Of
+Institutions, Faculty Of
+Tech., Rajkot","INFORMATION
+TECHNOLOGY"
+2022-23,21759,4303,General,"New L.J. Institute of
+Engineering &
+Technology","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,18086,4840,General,"New L.J. Institute of
+Engineering &
+Technology","COMPUTER
+SCIENCE &
+ENGINEERING
+(ARTIFICIAL
+INTELLIGENCE
+AND MACHINE
+LEARNING)"
+2022-23,26786,5560,General,"P.P. Savani School of
+Engineering, P.P.
+Savani University,
+Kosamba","COMPUTER
+ENGINEERING"
+2022-23,23726,7128,General,"P.P. Savani School of
+Engineering, P.P.
+Savani University,
+Kosamba","COMPUTER
+ENGINEERING
+(MACHINE
+LEARNING &
+ARTIFICIAL
+INTELLIGENCE)"
+2022-23,19830,4286,General,"P.P. Savani School of
+Engineering, P.P.
+Savani University,
+Kosamba","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,25965,6470,General,"P.P. Savani School of
+Engineering, P.P.
+Savani University,
+Kosamba","INFORMATION
+TECHNOLOGY"
+2022-23,26766,8877,General,"P.P. Savani School of
+Engineering, P.P.
+Savani University,
+Kosamba","INFORMATION
+TECHNOLOGY &
+ENGINEERING"
+2022-23,21974,21451,General,"PRODUCTION
+ENGINEERING","PRODUCTION
+ENGINEERING"
+2022-23,26477,11780,General,"Pacific School Of
+Engineering, Surat","COMPUTER
+ENGINEERING"
+2022-23,26505,6811,General,"Pandit Deendayal
+Energy University
+,Gandhinagar","CHEMICAL
+ENGINEERING"
+2022-23,10319,706,General,"Pandit Deendayal
+Energy University
+,Gandhinagar","COMPUTER
+ENGINEERING"
+2022-23,9345,4221,General,"Pandit Deendayal
+Energy University
+,Gandhinagar","ELECTRONICS &
+COMMUNICATI
+ON
+ENGINEERING"
+2022-23,11493,845,General,"Pandit Deendayal
+Energy University
+,Gandhinagar","INFORMATION
+&
+COMMUNICATI
+ON
+TECHNOLOGY"
+2022-23,25992,10467,General,"Pandit Deendayal
+Energy University
+,Gandhinagar","MECHANICAL
+ENGINEERING"
+2022-23,22111,7139,General,"Pandit Deendayal
+Energy University
+,Gandhinagar","MECHANICAL
+ENGINEERING"
+2022-23,25483,24546,General,"Parul Institute of
+Engineering &
+Technology,
+Waghodia, Vadodara","CIVIL
+ENGINEERING"
+2022-23,26759,7728,General,"Parul Institute of
+Engineering &
+Technology,
+Waghodia, Vadodara","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,25478,25695,General,"Parul Institute of
+Engineering &
+Technology,
+Waghodia, Vadodara","COMPUTER
+SCIENCE &
+ENGINEERING
+(CYBER
+SECURITY)"
+2022-23,26199,3983,General,"Parul Institute of
+Engineering &
+Technology,
+Waghodia, Vadodara","Computer
+Engineering"
+2022-23,26714,25587,General,"Parul Institute of
+Engineering &
+Technology,
+Waghodia, Vadodara","Computer
+Science &
+Engineering
+(Block Chain
+Technology)"
+2022-23,21571,15311,General,"Parul Institute of
+Engineering &
+Technology,
+Waghodia, Vadodara","Computer
+Science &
+Engineering
+(Cloud
+Computing)"
+2022-23,15896,18825,General,"Parul Institute of
+Engineering &
+Technology,
+Waghodia, Vadodara","Computer
+Science &
+Engineering
+(Internet of
+Things)"
+2022-23,18904,14587,General,"Parul Institute of
+Engineering &
+Technology,
+Waghodia, Vadodara","Computer
+Science &
+Engineering (Big
+Data Analytics)"
+2022-23,24293,24815,General,"Parul Institute of
+Engineering &
+Technology,
+Waghodia, Vadodara","Electrical
+Engineering"
+2022-23,26788,7339,General,"Parul Institute of
+Engineering &
+Technology,
+Waghodia, Vadodara","Information
+Technology"
+2022-23,12055,23036,General,"Parul Institute of
+Engineering &
+Technology,
+Waghodia, Vadodara","Mechanical
+Engineering"
+2022-23,18702,25951,General,"Parul Institute of
+Engineering &
+Technology,
+Waghodia, Vadodara","computer
+Science &
+Engineering
+(Artificial
+Intelligence)"
+2022-23,26255,24967,General,"Parul Institute of
+Technology,
+Waghodia, Vadodara","CHEMICAL
+ENGINEERING"
+2022-23,25497,6956,General,"Parul Institute of
+Technology,
+Waghodia, Vadodara","COMPUTER
+ENGINEERING"
+2022-23,24741,12889,General,"Parul Institute of
+Technology,
+Waghodia, Vadodara","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,18200,24186,General,"Parul Institute of
+Technology,
+Waghodia, Vadodara","COMPUTER
+SCIENCE &
+ENGINEERING
+(ARTIFICIAL
+INTELLIGENCE)"
+2022-23,12067,17049,General,"Parul Institute of
+Technology,
+Waghodia, Vadodara","COMPUTER
+SCIENCE &
+ENGINEERING
+(CLOUD
+COMPUTING)"
+2022-23,25724,17926,General,"Parul Institute of
+Technology,
+Waghodia, Vadodara","COMPUTER
+SCIENCE &
+ENGINEERING
+(CYBER
+SECURITY)"
+2022-23,23751,14605,General,"Parul Institute of
+Technology,
+Waghodia, Vadodara","FOOD
+TECHNOLOGY"
+2022-23,22393,6488,General,"Parul Institute of
+Technology,
+Waghodia, Vadodara","Mechanical
+Engineering"
+2022-23,26118,10912,General,"Parul Institute of
+Technology,
+Waghodia, Vadodara","Mechanical
+Engineering"
+2022-23,26073,11853,General,"R.K. University - School
+of Engineering, Rajkot","COMPUTER
+ENGINEERING"
+2022-23,26563,16863,General,"R.N.G. Patel Institute
+of Technology-RNGPIT
+, Bardoli","CIVIL
+ENGINEERING"
+2022-23,25939,5405,General,"R.N.G. Patel Institute
+of Technology-RNGPIT
+, Bardoli","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,26805,9361,General,"R.N.G. Patel Institute
+of Technology-RNGPIT
+, Bardoli","INFORMATION
+TECHNOLOGY"
+2022-23,25871,6932,General,"S.P.B. Patel Engg.
+College, (Saffrony),
+Linch, Mehsana","COMPUTER
+ENGINEERING"
+2022-23,26695,9384,General,"S.P.B. Patel Engg.
+College, (Saffrony),
+Linch, Mehsana","INFORMATION
+TECHNOLOGY"
+2022-23,25404,6154,General,"S.S.AGRAWAL
+INSTITUTE OF
+ENGINEERING &
+TECHNOLOGY
+NAVSARI","COMPUTER
+ENGINEERING"
+2022-23,26747,8659,General,"SAL ENGINEERING
+&TECHNICAL
+INSTITUTE, SOLA,
+AHMEDABAD","COMPUTER
+ENGINEERING"
+2022-23,25750,8624,General,"SAL ENGINEERING
+&TECHNICAL
+INSTITUTE, SOLA,
+AHMEDABAD","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,14771,9651,General,"SAL ENGINEERING
+&TECHNICAL
+INSTITUTE, SOLA,
+AHMEDABAD","INFORMATION
+&
+COMMUNICATI
+ON
+TECHNOLOGY"
+2022-23,26495,7807,General,"SAL ENGINEERING
+&TECHNICAL
+INSTITUTE, SOLA,
+AHMEDABAD","INFORMATION
+TECHNOLOGY"
+2022-23,25977,11511,General,"SARDAR PATEL
+COLLEGE OF
+ENGINEERING,
+BAKROL ANAND","COMPUTER
+ENGINEERING"
+2022-23,25030,11251,General,"SARDAR PATEL
+COLLEGE OF
+ENGINEERING,
+BAKROL ANAND","INFORMATION
+TECHNOLOGY"
+2022-23,25837,15245,General,"SCHOOL OF
+TECHNOLOGY, GSFC
+UNIVERSITY,
+VADODARA","CHEMICAL
+ENGINEERING"
+2022-23,26705,11726,General,"SCHOOL OF
+TECHNOLOGY, GSFC
+UNIVERSITY,
+VADODARA","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,26487,7482,General,"SCHOOL OF SCIENCE &
+ENGINEERING.,
+Navrachana University,
+Vadodara","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,26468,12172,General,"SHREE
+SWAMINARAYAN
+INSTITUTE OF
+TECHNOLOGY, BHAT,
+GANDHINAGAR","COMPUTER
+ENGINEERING"
+2022-23,25225,11353,General,"SHREE
+SWAMINARAYAN
+INSTITUTE OF
+TECHNOLOGY, BHAT,
+GANDHINAGAR","INFORMATION
+TECHNOLOGY"
+2022-23,8073,18695,General,"SHREE PAREKH
+ENGINEEIRNG College,
+MAHUVA","FOOD
+ENGINEERING &
+TECHNOLOGY"
+2022-23,25890,8195,General,"Sal College Of
+Engineering ,
+Ahmedabad","COMPUTER
+ENGINEERING"
+2022-23,25799,8432,General,"Sal College Of
+Engineering ,
+Ahmedabad","INFORMATION
+TECHNOLOGY"
+2022-23,26634,9058,General,"Sal Institute Of Tech. &
+Engg. Research,
+Ahmedabad","COMPUTER
+ENGINEERING"
+2022-23,26638,9066,General,"Sal Institute Of Tech. &
+Engg. Research,
+Ahmedabad","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,23496,14644,General,"Sal Institute Of Tech. &
+Engg. Research,
+Ahmedabad","INFORMATION
+&
+COMMUNICATI
+ON
+TECHNOLOGY"
+2022-23,26531,11624,General,"Sankalchand Patel
+College Of Engg.,
+Visnagar","COMPUTER
+ENGINEERING"
+2022-23,25679,10108,General,"Sankalchand Patel
+College Of Engg.,
+Visnagar","INFORMATION
+TECHNOLOGY"
+2022-23,26706,8229,General,"Sardar Vallabhbhai
+Patel Institute Of
+Tech.,Vasad","AERONAUTICAL
+ENGINEERING"
+2022-23,22316,2800,General,"Sardar Vallabhbhai
+Patel Institute Of
+Tech.,Vasad","COMPUTER
+ENGINEERING"
+2022-23,24069,5154,General,"Sardar Vallabhbhai
+Patel Institute Of
+Tech.,Vasad","COMPUTER
+SCIENCE &
+DESIGN"
+2022-23,11197,3664,General,"Sardar Vallabhbhai
+Patel Institute Of
+Tech.,Vasad","INFORMATION
+TECHNOLOGY"
+2022-23,21015,9886,General,"Sarvajanik College Of
+Engg. & Tech. , Surat","CHEMICAL
+ENGINEERING"
+2022-23,25649,16208,General,"Sarvajanik College Of
+Engg. & Tech. , Surat","CIVIL
+ENGINEERING"
+2022-23,3628,1492,General,"Sarvajanik College Of
+Engg. & Tech. , Surat","COMPUTER
+ENGINEERING"
+2022-23,15873,20347,General,"Sarvajanik College Of
+Engg. & Tech. , Surat","ELECTRICAL
+ENGINEERING"
+2022-23,26687,12165,General,"Sarvajanik College Of
+Engg. & Tech. , Surat","ELECTRONICS &
+COMMUNICATI
+ON
+ENGINEERING"
+2022-23,10031,2000,General,"Sarvajanik College Of
+Engg. & Tech. , Surat","INFORMATION
+TECHNOLOGY"
+2022-23,5679,1766,General,"Sarvajanik College Of
+Engg. & Tech. , Surat","INFORMATION
+TECHNOLOGY"
+2022-23,25901,12599,General,"Sarvajanik College Of
+Engg. & Tech. , Surat","INFORMATION
+TECHNOLOGY"
+2022-23,26166,11092,General,"Sarvajanik College Of
+Engg. & Tech. , Surat","MECHANICAL
+ENGINEERING"
+2022-23,10469,800,General,"School of Engg. and
+Applied Science,
+Ahmedabad
+University,
+Ahmedabad","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,26300,11729,General,"School of Engg. and
+Applied Science,
+Ahmedabad
+University,
+Ahmedabad","MECHANICAL
+ENGINEERING"
+2022-23,25433,12517,General,"School of Engineering -
+Indrashil University,
+Kadi","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,24846,13966,General,"School of Engineering -
+Indrashil University,
+Kadi","INFORMATION
+TECHNOLOGY"
+2022-23,24160,8766,General,"Shankersinh Vaghela
+Bapu Institute Of
+Tech., Unava,
+Gandhinagar","COMPUTER
+ENGINEERING"
+2022-23,25605,13282,General,"Shankersinh Vaghela
+Bapu Institute Of
+Tech., Unava,
+Gandhinagar","INFORMATION
+TECHNOLOGY"
+2022-23,26429,913490,General,"Shantilal Shah
+Engineering College
+,Bhavnagar","CIVIL
+ENGINEERING"
+2022-23,912974,913839,General,"Shantilal Shah
+Engineering College
+,Bhavnagar","ELECTRICAL
+ENGINEERING"
+2022-23,7608,902356,General,"Shantilal Shah
+Engineering College
+,Bhavnagar","INFORMATION
+TECHNOLOGY"
+2022-23,21999,16031,General,"Shri Labhubhai Trivedi
+Institute Of
+Engineering And
+Technology, Rajkot","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,21507,12929,General,"Shri Labhubhai Trivedi
+Institute Of
+Engineering And
+Technology, Rajkot","COMPUTER
+SCIENCE &
+ENGINEERING
+(DATA SCIENCE)"
+2022-23,24579,26042,General,"Shri Sadvidhya Mandal
+Institute Of Tech.,
+Bharuch","CHEMICAL
+ENGINEERING"
+2022-23,26789,11500,General,"Shri Sadvidhya Mandal
+Institute Of Tech.,
+Bharuch","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,26223,14187,General,"Shri Sadvidhya Mandal
+Institute Of Tech.,
+Bharuch","INFORMATION
+TECHNOLOGY"
+2022-23,25884,25319,General,"Shri Sitaram N Patel
+Inst. Of Tech. & Res.
+(Vidhyabharti Trust),
+Umrakh","CHEMICAL
+ENGINEERING"
+2022-23,26555,15112,General,"Shri Sitaram N Patel
+Inst. Of Tech. & Res.
+(Vidhyabharti Trust),
+Umrakh","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,25132,12515,General,"Shri Sitaram N Patel
+Inst. Of Tech. & Res.
+(Vidhyabharti Trust),
+Umrakh","INFORMATION
+TECHNOLOGY"
+2022-23,8491,3037,General,"Shri Swami Atmanand
+Saraswati Institute Of
+Tech., Surat","COMPUTER
+ENGINEERING"
+2022-23,10779,4463,General,"Shri Swami Atmanand
+Saraswati Institute Of
+Tech., Surat","INFORMATION
+TECHNOLOGY"
+2022-23,22956,20028,General,"Shri Swami Atmanand
+Saraswati Institute Of
+Tech., Surat","MECHANICAL
+ENGINEERING"
+2022-23,26410,12325,General,"Shroff S.R.Rotary Inst.
+Of Chemical
+Technology,
+Vatatia,Bharuch","Shroff S.R.Rotary Inst.
+Of Chemical
+Technology,
+Vatatia,Bharuch"
+2022-23,25191,11842,General,"Sigma Institute Of
+Engg., Bakrol","COMPUTER
+ENGINEERING"
+2022-23,23669,18503,General,"Sigma Institute Of
+Engg., Bakrol","INFORMATION
+TECHNOLOGY"
+2022-23,26462,9689,General,"Silver Oak College Of
+Engg., & Tech.
+(WITHIN AMHEDABAD
+MUNICIPAL
+CORPORATION LIMIT),
+Ahmedabad","COMPUTER
+ENGINEERING"
+2022-23,22585,11369,General,"Silver Oak College Of
+Engg., & Tech.
+(WITHIN AMHEDABAD
+MUNICIPAL
+CORPORATION LIMIT),
+Ahmedabad","COMPUTER
+ENGINEERING
+(ARTIFICIAL
+INTELLIGENCE
+AND MACHINE
+LEARNING)"
+2022-23,26092,7792,General,"Silver Oak College Of
+Engg., & Tech.
+(WITHIN AMHEDABAD
+MUNICIPAL
+CORPORATION LIMIT),
+Ahmedabad","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,21959,12835,General,"Silver Oak College Of
+Engg., & Tech.
+(WITHIN AMHEDABAD
+MUNICIPAL
+CORPORATION LIMIT),
+Ahmedabad","COMPUTER
+SCIENCE &
+ENGINEERING
+(CYBER
+SECURITY)"
+2022-23,18694,8769,General,"Silver Oak College Of
+Engg., & Tech.
+(WITHIN AMHEDABAD
+MUNICIPAL
+CORPORATION LIMIT),
+Ahmedabad","INFORMATION
+TECHNOLOGY"
+2022-23,25635,9040,General,"Silver Oak College Of
+Engg., & Tech.
+(WITHIN AMHEDABAD
+MUNICIPAL
+CORPORATION LIMIT),
+Ahmedabad","INFORMATION
+TECHNOLOGY"
+2022-23,25617,8558,General,"Smt. S.R. Patel Engg.
+College, Dabhi, Unjha","COMPUTER
+ENGINEERING"
+2022-23,20388,6160,General,"Unitedworld School of
+Computational
+Intelligence, Uvarsad,
+Gandhinagar","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,22461,12928,General,"Unitedworld School of
+Computational
+Intelligence, Uvarsad,
+Gandhinagar","COMPUTER
+SCIENCE &
+ENGINEERING
+(ARTIFICIAL
+INTELLIGENCE
+AND MACHINE
+LEARNING)"
+2022-23,21225,2725,General,"V.V.P. Engineering
+College, Rajkot","COMPUTER
+ENGINEERING"
+2022-23,24262,5745,General,"V.V.P. Engineering
+College, Rajkot","COMPUTER
+SCIENCE &
+ENGINEERING
+(ARTIFICIAL
+INTELLIGENCE
+AND MACHINE
+LEARNING)"
+2022-23,12881,6190,General,"V.V.P. Engineering
+College, Rajkot","ELECTRONICS &
+COMMUNICATI
+ON
+ENGINEERING"
+2022-23,26683,3223,General,"V.V.P. Engineering
+College, Rajkot","INFORMATION
+TECHNOLOGY"
+2022-23,22765,11882,General,"Vidhyadeep Institute
+of Engineering &
+Technology,
+Anita(Kim), Surat","COMPUTER
+ENGINEERING"
+2022-23,24234,19608,General,"Vidush Somany
+Institute Of Tech. &
+Res., Kadi","COMPUTER
+ENGINEERING"
+2022-23,21279,24566,General,"Vidush Somany
+Institute Of Tech. &
+Res., Kadi","COMPUTER
+SCIENCE &
+ENGINEERING"
+2022-23,7809,903678,General,"Vishwakarma
+Government
+Engineering College,
+Chandkheda,Gandhina
+gar","CHEMICAL
+ENGINEERING"
+2022-23,11947,903850,General,"Vishwakarma
+Government
+Engineering College,
+Chandkheda,Gandhina
+gar","CIVIL
+ENGINEERING"
+2022-23,1143,900296,General,"Vishwakarma
+Government
+Engineering College,
+Chandkheda,Gandhina
+gar","COMPUTER
+ENGINEERING"
+2022-23,1612,900355,General,"Vishwakarma
+Government
+Engineering College,
+Chandkheda,Gandhina
+gar","COMPUTER
+SCIENCE &
+ENGINEERING
+(DATA SCIENCE)"
+2022-23,12846,906428,General,"Vishwakarma
+Government
+Engineering College,
+Chandkheda,Gandhina
+gar","ELECTRICAL
+ENGINEERING"
+2022-23,7572,901388,General,"Vishwakarma
+Government
+Engineering College,
+Chandkheda,Gandhina
+gar","ELECTRONICS &
+COMMUNICATI
+ON
+ENGINEERING"
+2022-23,912362,906848,General,"Vishwakarma
+Government
+Engineering College,
+Chandkheda,Gandhina
+gar","ELECTRONICS &
+INSTRUMENTAT
+ION
+ENGINEERING"
+2022-23,1317,900264,General,"Vishwakarma
+Government
+Engineering College,
+Chandkheda,Gandhina
+gar","INFORMATION
+TECHNOLOGY"
+2022-23,914499,914151,General,"Vishwakarma
+Government
+Engineering College,
+Chandkheda,Gandhina
+gar","INFORMATION
+TECHNOLOGY"
+2022-23,902473,902996,General,"Vishwakarma
+Government
+Engineering College,
+Chandkheda,Gandhina
+gar","MECHANICAL
+ENGINEERING"
+2022-23,910880,909995,General,"Vishwakarma
+Government
+Engineering College,
+Chandkheda,Gandhina
+gar","POWER
+ELECTRONICS"
+2023-24,6844,2618,General,"A.D.Patel Institute Of Tech.,Karamsad",Computer Engineering
+2023-24,21114,3650,General,"A.D.Patel Institute Of Tech.,Karamsad",Computer Science
+2023-24,29979,5973,General,"A.D.Patel Institute Of Tech.,Karamsad","FOOD PROCESSING
+TECHNOLOGY"
+2023-24,9660,2821,General,"A.D.Patel Institute Of Tech.,Karamsad",Information Technology
+2023-24,16156,3718,General,"A.D.Patel Institute Of Tech.,Karamsad",Information Technology
+2023-24,27976,3052,General,"ADANI UNIVERSITY - FACULTY OF ENGINEERING
+SCIENCES & TECHNOLOGY (AU-FEST), AHMEDABAD",Computer Science
+2023-24,30120,3044,General,"ADANI UNIVERSITY - FACULTY OF ENGINEERING
+SCIENCES & TECHNOLOGY (AU-FEST), AHMEDABAD","INFORMATION &
+COMMUNICATION
+TECHNOLOGY"
+2023-24,30293,7119,General,"ADITYA SILVER OAK INSTITUTE OF TECHNOLOGY
+(WITHIN LIMITS OF AHMEDABAD MUNICIPAL
+CORPORATION) AHMEDABAD",Computer Science
+2023-24,28637,12373,General,"ADITYA SILVER OAK INSTITUTE OF TECHNOLOGY
+(WITHIN LIMITS OF AHMEDABAD MUNICIPAL
+CORPORATION) AHMEDABAD","INFORMATION &
+COMMUNICATION
+TECHNOLOGY"
+2023-24,26617,10375,General,"ASIA School of Engineering, Ahmedabad",Computer Science
+2023-24,24548,11650,General,"ASIA School of Engineering, Ahmedabad",Information Technology
+2023-24,28418,29655,General,"Ahmedabad Institute Of Tech, Ahmedabad",Computer Engineering
+2023-24,27129,15454,General,"Ahmedabad Institute Of Tech, Ahmedabad",Computer Science
+2023-24,21481,24801,General,"Ahmedabad Institute Of Tech, Ahmedabad",Computer Science
+2023-24,23790,26522,General,"Ahmedabad Institute Of Tech, Ahmedabad",Computer Science
+2023-24,28095,30486,General,"Ahmedabad Institute Of Tech, Ahmedabad",Information Technology
+2023-24,27541,9697,General,"Asha M. Tarsadia Institute of Computer Science & Tech.
+Bardoli",Computer Science
+2023-24,30154,7761,General,"Asha M. Tarsadia Institute of Computer Science & Tech.
+Bardoli",Computer Science
+2023-24,30393,10852,General,"Asha M. Tarsadia Institute of Computer Science & Tech.
+Bardoli",Computer Science
+2023-24,30471,10129,General,"Atmiya University, Faculty of Engineering and Technology,
+Rajkot",Computer Engineering
+2023-24,25673,7983,General,"Atmiya University, Faculty of Engineering and Technology,
+Rajkot",Information Technology
+2023-24,29734,10844,General,"Bhagwan Mahavir College Of Engg. And Tech., Surat",Computer Engineering
+2023-24,22437,7424,General,"C. K. Pithawala College Of Engg. & Tech., Surat",Computer Engineering
+2023-24,22144,6518,General,"C. K. Pithawala College Of Engg. & Tech., Surat",Information Technology
+2023-24,16248,906885,General,CIVIL ENGINEERING,Civil Engineering
+2023-24,3774,492,General,COMPUTER ENGINEERING,Computer Engineering
+2023-24,28715,17661,General,"Charotar University of Science & Technology (CHARUSAT) -
+Chandubhai S Patel Institute Of Technology (CSPIT), Changa",Civil Engineering
+2023-24,7521,1190,General,"Charotar University of Science & Technology (CHARUSAT) -
+Chandubhai S Patel Institute Of Technology (CSPIT), Changa",Computer Engineering
+2023-24,1937,589,General,"Charotar University of Science & Technology (CHARUSAT) -
+Chandubhai S Patel Institute Of Technology (CSPIT), Changa",Computer Science
+2023-24,22168,6023,General,"Charotar University of Science & Technology (CHARUSAT) -
+Chandubhai S Patel Institute Of Technology (CSPIT), Changa","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2023-24,30107,13943,General,"Charotar University of Science & Technology (CHARUSAT) -
+Chandubhai S Patel Institute Of Technology (CSPIT), Changa",Electrical Engineering
+2023-24,3638,1326,General,"Charotar University of Science & Technology (CHARUSAT) -
+Chandubhai S Patel Institute Of Technology (CSPIT), Changa",Information Technology
+2023-24,14677,1952,General,"Charotar University of Science & Technology (CHARUSAT) -
+Chandubhai S Patel Institute Of Technology (CSPIT), Changa",Information Technology
+2023-24,30167,10332,General,"Charotar University of Science & Technology (CHARUSAT) -
+Chandubhai S Patel Institute Of Technology (CSPIT), Changa",Mechanical Engineering
+2023-24,11797,1329,General,"Charotar University of Science & Technology (CHARUSAT) -
+Devang Patel Institute of Advance Technology And Research
+(DEPSTAR), Changa",Computer Engineering
+2023-24,8593,1276,General,"Charotar University of Science & Technology (CHARUSAT) -
+Devang Patel Institute of Advance Technology And Research
+(DEPSTAR), Changa",Computer Science
+2023-24,4562,1486,General,"Charotar University of Science & Technology (CHARUSAT) -
+Devang Patel Institute of Advance Technology And Research
+(DEPSTAR), Changa",Information Technology
+2023-24,29816,9234,General,"Chhotubhai Gopalbhai Patel Institute Of Tech., Tarsadi,
+Bardoli",Computer Engineering
+2023-24,30535,10812,General,"Chhotubhai Gopalbhai Patel Institute Of Tech., Tarsadi,
+Bardoli",Information Technology
+2023-24,29965,921144,General,DR. S & S.S.Ghandhi Government Engineering College Surat,Civil Engineering
+2023-24,27534,2425,General,DR. S & S.S.Ghandhi Government Engineering College Surat,Computer Engineering
+2023-24,902414,10545,General,DR. S & S.S.Ghandhi Government Engineering College Surat,"ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2023-24,30412,921332,General,DR. S & S.S.Ghandhi Government Engineering College Surat,"ENVIRONMENTAL
+ENGINEERING"
+2023-24,30516,921561,General,DR. S & S.S.Ghandhi Government Engineering College Surat,Electrical Engineering
+2023-24,921301,12573,General,DR. S & S.S.Ghandhi Government Engineering College Surat,Mechanical Engineering
+2023-24,19195,2244,General,"Darshan Institute Of Engg. & Tech., Rajkot-Morbi Highway,
+Hadala",Computer Science
+2023-24,4,900056,General,"Dhirubhai Ambani Institute of Info. & Comm. Tech.,
+Gandhinagar",Computer Science
+2023-24,12,900015,General,"Dhirubhai Ambani Institute of Info. & Comm. Tech.,
+Gandhinagar",Computer Science
+2023-24,119,900429,General,"Dhirubhai Ambani Institute of Info. & Comm. Tech.,
+Gandhinagar","ELECTRONICS ENGINEERING (
+VLSI DESIGN AND
+TECHNOLOGY)"
+2023-24,22,900175,General,"Dhirubhai Ambani Institute of Info. & Comm. Tech.,
+Gandhinagar","INFORMATION &
+COMMUNICATION
+TECHNOLOGY"
+2023-24,29685,3881,General,ELECTRICAL ENGINEERING,Electrical Engineering
+2023-24,28970,13540,General,"ELECTRONICS &
+COMMUNICATION
+ENGINEERING","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2023-24,15128,5766,General,ELECTRONICS ENGINEERING,ELECTRONICS ENGINEERING
+2023-24,900538,761,General,"Faculty Of Technology & Engineering(MSU), Vadodara",Chemical Engineering
+2023-24,21707,6786,General,"Faculty Of Technology & Engineering(MSU), Vadodara",Civil Engineering
+2023-24,20307,917868,General,"Faculty Of Technology & Engineering(MSU), Vadodara",Civil Engineering
+2023-24,2395,437,General,"Faculty Of Technology & Engineering(MSU), Vadodara",Computer Science
+2023-24,900298,4617,General,"Faculty Of Technology & Engineering(MSU), Vadodara",ELECTRONICS ENGINEERING
+2023-24,20050,2771,General,"Faculty Of Technology & Engineering(MSU), Vadodara",Electrical Engineering
+2023-24,2797,900435,General,"Faculty Of Technology & Engineering(MSU), Vadodara",Mechanical Engineering
+2023-24,27119,917829,General,"Faculty Of Technology & Engineering(MSU), Vadodara",TEXTILE ENGINEERING
+2023-24,29549,920672,General,"Faculty Of Technology & Engineering(MSU), Vadodara",TEXTILE TECHNOLOGY
+2023-24,29937,921524,General,"Faculty Of Technology & Engineering(MSU), Vadodara",TEXTILE TECHNOLOGY
+2023-24,900612,2305,General,"Faculty Of Technology And Engineering(GIA), Dharmsinh
+Desai University, (DDU), Nadiad",Chemical Engineering
+2023-24,908922,15469,General,"Faculty Of Technology And Engineering(GIA), Dharmsinh
+Desai University, (DDU), Nadiad",Civil Engineering
+2023-24,1744,137,General,"Faculty Of Technology And Engineering(GIA), Dharmsinh
+Desai University, (DDU), Nadiad",Computer Engineering
+2023-24,1018,901038,General,"Faculty Of Technology And Engineering(GIA), Dharmsinh
+Desai University, (DDU), Nadiad","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2023-24,901860,4020,General,"Faculty Of Technology And Engineering(GIA), Dharmsinh
+Desai University, (DDU), Nadiad","INSTRUMENTATION &
+CONTROL ENGINEERING"
+2023-24,29825,20788,General,"Faculty Of Technology(Sfi), Dharmsinh Desai University,
+Nadiad",Chemical Engineering
+2023-24,5484,179,General,"Faculty Of Technology(Sfi), Dharmsinh Desai University,
+Nadiad",Computer Engineering
+2023-24,7588,3366,General,"Faculty Of Technology(Sfi), Dharmsinh Desai University,
+Nadiad","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2023-24,24929,28127,General,"Faculty Of Technology(Sfi), Dharmsinh Desai University,
+Nadiad","INSTRUMENTATION &
+CONTROL ENGINEERING"
+2023-24,7288,405,General,"Faculty Of Technology(Sfi), Dharmsinh Desai University,
+Nadiad",Information Technology
+2023-24,26882,29010,General,"Faculty Of Technology(Sfi), Dharmsinh Desai University,
+Nadiad",Mechanical Engineering
+2023-24,27465,4989,General,"Faculty of Engineering & Technology- GLS University,
+Ahmedabad",Computer Science
+2023-24,25145,22180,General,"Faculty of Engineering & Technology- Sigma
+University,Bakrol, Vadodara",Computer Science
+2023-24,25935,22065,General,"Faculty of Engineering & Technology- Sigma
+University,Bakrol, Vadodara",Computer Science
+2023-24,29507,15191,General,"Faculty of Engineering & Technology- Sigma
+University,Bakrol, Vadodara",Computer Science
+2023-24,28664,10699,General,"Faculty of Technology, CEPT University, Ahmedabad",Civil Engineering
+2023-24,3143,1582,General,"G.H.Patel College Of Engg. & Tech. , V. V. Nagar",Computer Engineering
+2023-24,18663,2597,General,"G.H.Patel College Of Engg. & Tech. , V. V. Nagar",Computer Science
+2023-24,10017,2764,General,"G.H.Patel College Of Engg. & Tech. , V. V. Nagar",Computer Science
+2023-24,16296,1740,General,"G.H.Patel College Of Engg. & Tech. , V. V. Nagar",Information Technology
+2023-24,28041,5863,General,"GIDC Degree Engineering College, Abrama, Navsari",Computer Engineering
+2023-24,30033,26225,General,"GIDC Degree Engineering College, Abrama, Navsari",Electrical Engineering
+2023-24,27844,11559,General,"GYANMANJARI INSTITUTE OF TECHNOLOGY
+Bhavnagar",Computer Engineering
+2023-24,27548,11145,General,"GYANMANJARI INSTITUTE OF TECHNOLOGY
+Bhavnagar",Computer Science
+2023-24,28869,14053,General,"GYANMANJARI INSTITUTE OF TECHNOLOGY
+Bhavnagar","INFORMATION &
+COMMUNICATION
+TECHNOLOGY"
+2023-24,29157,13710,General,"GYANMANJARI INSTITUTE OF TECHNOLOGY
+Bhavnagar",Information Technology
+2023-24,28919,3683,General,"Gandhinagar Institute Of Technology, Moti Bhoyan, Kalol,
+Gandhinagar",Computer Science
+2023-24,26170,12284,General,"Gandhinagar Institute Of Technology, Moti Bhoyan, Kalol,
+Gandhinagar",Computer Science
+2023-24,26764,7121,General,"Gandhinagar Institute Of Technology, Moti Bhoyan, Kalol,
+Gandhinagar","INFORMATION &
+COMMUNICATION
+TECHNOLOGY"
+2023-24,28824,5860,General,"Gandhinagar Institute Of Technology, Moti Bhoyan, Kalol,
+Gandhinagar","INFORMATION &
+COMMUNICATION
+TECHNOLOGY"
+2023-24,30419,7068,General,"Ganpat University, Institute of Computer Tech., Kherva,
+Mehsana","Ganpat University, Institute of Computer Tech., Kherva,
+Mehsana"
+2023-24,30239,8915,General,"Ganpat University, U.V.Patel College of Engineering, Kherva,
+Mehsana",Computer Engineering
+2023-24,30445,7478,General,"Ganpat University, U.V.Patel College of Engineering, Kherva,
+Mehsana",Computer Engineering
+2023-24,28854,10824,General,"Ganpat University, U.V.Patel College of Engineering, Kherva,
+Mehsana",Computer Science
+2023-24,28835,8202,General,"Ganpat University, U.V.Patel College of Engineering, Kherva,
+Mehsana","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2023-24,29398,5824,General,"Ganpat University, U.V.Patel College of Engineering, Kherva,
+Mehsana",Information Technology
+2023-24,29688,9473,General,"Ganpat University, U.V.Patel College of Engineering, Kherva,
+Mehsana",Information Technology
+2023-24,10521,25981,General,"Ganpat University, U.V.Patel College of Engineering, Kherva,
+Mehsana",MARINE ENGINEERING
+2023-24,19197,8733,General,"Government Engineering College, Bharuch",Chemical Engineering
+2023-24,30382,919984,General,"Government Engineering College, Bharuch",Civil Engineering
+2023-24,9988,4794,General,"Government Engineering College, Bharuch",Computer Engineering
+2023-24,30500,910551,General,"Government Engineering College, Bharuch","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2023-24,29939,921260,General,"Government Engineering College, Bharuch",Electrical Engineering
+2023-24,29402,920842,General,"Government Engineering College, Bharuch",Mechanical Engineering
+2023-24,921487,10827,General,"Government Engineering College, Bhavnagar",Civil Engineering
+2023-24,1761,900593,General,"Government Engineering College, Bhavnagar",Computer Engineering
+2023-24,921196,12072,General,"Government Engineering College, Bhavnagar","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2023-24,902342,7831,General,"Government Engineering College, Bhavnagar","INFORMATION &
+COMMUNICATION
+TECHNOLOGY"
+2023-24,11368,2923,General,"Government Engineering College, Bhavnagar",Information Technology
+2023-24,28936,921503,General,"Government Engineering College, Bhavnagar",Mechanical Engineering
+2023-24,25059,920991,General,"Government Engineering College, Bhuj",Chemical Engineering
+2023-24,30157,915041,General,"Government Engineering College, Bhuj",Civil Engineering
+2023-24,17084,920826,General,"Government Engineering College, Bhuj",Electrical Engineering
+2023-24,20978,913893,General,"Government Engineering College, Bhuj",Mechanical Engineering
+2023-24,28928,10809,General,"Government Engineering College, Dahod",Computer Engineering
+2023-24,30226,918302,General,"Government Engineering College, Dahod","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2023-24,29107,918947,General,"Government Engineering College, Dahod",Electrical Engineering
+2023-24,28009,909558,General,"Government Engineering College, Dahod",Mechanical Engineering
+2023-24,27371,916149,General,"Government Engineering College, Godhra",Civil Engineering
+2023-24,28336,916790,General,"Government Engineering College, Godhra",Electrical Engineering
+2023-24,27189,918200,General,"Government Engineering College, Godhra",Mechanical Engineering
+2023-24,29572,919587,General,"Government Engineering College, Modasa",Civil Engineering
+2023-24,18750,7559,General,"Government Engineering College, Modasa",Computer Engineering
+2023-24,30495,903472,General,"Government Engineering College, Modasa","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2023-24,28190,921011,General,"Government Engineering College, Modasa",Electrical Engineering
+2023-24,8334,902149,General,"Government Engineering College, Modasa",Information Technology
+2023-24,25590,920778,General,"Government Engineering College, Modasa",Mechanical Engineering
+2023-24,29610,921354,General,"Government Engineering College, Palanpur",Civil Engineering
+2023-24,903695,9591,General,"Government Engineering College, Palanpur",Computer Engineering
+2023-24,29535,919948,General,"Government Engineering College, Palanpur",Electrical Engineering
+2023-24,28410,919216,General,"Government Engineering College, Palanpur",Mechanical Engineering
+2023-24,28436,921412,General,"Government Engineering College, Patan",Civil Engineering
+2023-24,29339,6576,General,"Government Engineering College, Patan",Computer Science
+2023-24,27791,921167,General,"Government Engineering College, Patan","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2023-24,28898,914889,General,"Government Engineering College, Patan",Electrical Engineering
+2023-24,28647,920609,General,"Government Engineering College, Patan",Mechanical Engineering
+2023-24,30470,921473,General,"Government Engineering College, Rajkot",Civil Engineering
+2023-24,3531,900850,General,"Government Engineering College, Rajkot",Computer Engineering
+2023-24,23354,6325,General,"Government Engineering College, Rajkot",Computer Engineering
+2023-24,28953,921285,General,"Government Engineering College, Rajkot","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2023-24,30179,921480,General,"Government Engineering College, Rajkot",Electrical Engineering
+2023-24,25128,907293,General,"Government Engineering College, Rajkot","INSTRUMENTATION &
+CONTROL ENGINEERING"
+2023-24,29325,921219,General,"Government Engineering College, Rajkot",Mechanical Engineering
+2023-24,29368,921481,General,"Government Engineering College, Rajkot",Mechanical Engineering
+2023-24,912584,14852,General,"Government Engineering College, Sector 28 Gandhinagar",Civil Engineering
+2023-24,2018,900678,General,"Government Engineering College, Sector 28 Gandhinagar",Computer Engineering
+2023-24,17589,9441,General,"Government Engineering College, Sector 28 Gandhinagar","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2023-24,903352,12377,General,"Government Engineering College, Sector 28 Gandhinagar","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2023-24,920933,18041,General,"Government Engineering College, Sector 28 Gandhinagar",Electrical Engineering
+2023-24,29525,921444,General,"Government Engineering College, Sector 28 Gandhinagar","INSTRUMENTATION &
+CONTROL ENGINEERING"
+2023-24,10714,2134,General,"Government Engineering College, Sector 28 Gandhinagar",Information Technology
+2023-24,22154,909152,General,"Government Engineering College, Sector 28 Gandhinagar",METALLURGY
+2023-24,22216,904178,General,"Government Engineering College, Sector 28 Gandhinagar",Mechanical Engineering
+2023-24,14409,906906,General,"Government Engineering College, Valsad",Chemical Engineering
+2023-24,29545,921498,General,"Government Engineering College, Valsad",Civil Engineering
+2023-24,910944,14190,General,"Government Engineering College, Valsad",Electrical Engineering
+2023-24,30251,921087,General,"Government Engineering College, Valsad",Mechanical Engineering
+2023-24,13497,4664,General,"Graduate School of Engineering and Technology, Chandkheda
+Ahmedabad",Computer Engineering
+2023-24,30522,13145,General,"Gujarat Power Engg. And Res. Inst. (Gperi) (Ppp), Mevad,
+Mehsana",Computer Engineering
+2023-24,7801,1292,General,INFORMATION TECHNOLOGY,Information Technology
+2023-24,30517,10538,General,"ITM (SLS) Baroda University (Formerly Known as ITM
+Universe), Vadodara",Computer Science
+2023-24,30455,5015,General,"Indus Institute Of Tech. & Engg., Racharda, Ahmedabad",Computer Engineering
+2023-24,30460,5294,General,"Indus Institute Of Tech. & Engg., Racharda, Ahmedabad",Computer Science
+2023-24,26663,7007,General,"Indus Institute Of Tech. & Engg., Racharda, Ahmedabad","INFORMATION &
+COMMUNICATION
+TECHNOLOGY"
+2023-24,30171,8028,General,"Indus Institute Of Tech. & Engg., Racharda, Ahmedabad","INFORMATION &
+COMMUNICATION
+TECHNOLOGY"
+2023-24,30323,5811,General,"Indus Institute Of Tech. & Engg., Racharda, Ahmedabad",Information Technology
+2023-24,8761,1100,General,"Institute Of Technology, Nirma University Of Science &
+Technology, Ahmedabad",Chemical Engineering
+2023-24,26919,2264,General,"Institute Of Technology, Nirma University Of Science &
+Technology, Ahmedabad",Civil Engineering
+2023-24,3405,99,General,"Institute Of Technology, Nirma University Of Science &
+Technology, Ahmedabad",Computer Science
+2023-24,6781,646,General,"Institute Of Technology, Nirma University Of Science &
+Technology, Ahmedabad","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2023-24,5722,1788,General,"Institute Of Technology, Nirma University Of Science &
+Technology, Ahmedabad","ELECTRONICS &
+INSTRUMENTATION
+ENGINEERING"
+2023-24,10703,2221,General,"Institute Of Technology, Nirma University Of Science &
+Technology, Ahmedabad",Electrical Engineering
+2023-24,9680,1799,General,"Institute Of Technology, Nirma University Of Science &
+Technology, Ahmedabad",Mechanical Engineering
+2023-24,28821,5702,General,"Institute of Advanced Research, Gandhinagar",Computer Engineering
+2023-24,28968,6770,General,"Institute of Advanced Research, Gandhinagar",Information Technology
+2023-24,29391,9582,General,"Institute of Advanced Research, Gandhinagar",Information Technology
+2023-24,29918,23533,General,"Institute of Infrastructure, Tech., Research & Management
+(IITRAM), Maninagar, Ahmedabad",Civil Engineering
+2023-24,2846,1113,General,"Institute of Infrastructure, Tech., Research & Management
+(IITRAM), Maninagar, Ahmedabad",Computer Engineering
+2023-24,30119,15373,General,"Institute of Infrastructure, Tech., Research & Management
+(IITRAM), Maninagar, Ahmedabad",Electrical Engineering
+2023-24,30400,13878,General,"Institute of Infrastructure, Tech., Research & Management
+(IITRAM), Maninagar, Ahmedabad",Mechanical Engineering
+2023-24,30499,10117,General,"Krishna School of Emerging Technology & Applied Research
+(Formerly Known as Babaria Institute Of Technology) ,
+Varnama, Vadodara",Computer Science
+2023-24,29590,12090,General,"Krishna School of Technology, Varnama, Vadodara",Computer Engineering
+2023-24,29390,12235,General,"Krishna School of Technology, Varnama, Vadodara",FOOD TECHNOLOGY
+2023-24,921303,15314,General,"L.D.College Of Engineering, Ahmedabad",AUTOMOBILE ENGINEERING
+2023-24,921142,16559,General,"L.D.College Of Engineering, Ahmedabad",BIOMEDICAL ENGINEERING
+2023-24,9035,2666,General,"L.D.College Of Engineering, Ahmedabad",Chemical Engineering
+2023-24,3175,902729,General,"L.D.College Of Engineering, Ahmedabad",Civil Engineering
+2023-24,302,900292,General,"L.D.College Of Engineering, Ahmedabad",Computer Engineering
+2023-24,8126,2433,General,"L.D.College Of Engineering, Ahmedabad","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2023-24,905112,10401,General,"L.D.College Of Engineering, Ahmedabad","ENVIRONMENTAL
+ENGINEERING"
+2023-24,2897,901071,General,"L.D.College Of Engineering, Ahmedabad",Electrical Engineering
+2023-24,29217,6598,General,"L.D.College Of Engineering, Ahmedabad","INSTRUMENTATION &
+CONTROL ENGINEERING"
+2023-24,5330,664,General,"L.D.College Of Engineering, Ahmedabad",Information Technology
+2023-24,8865,825,General,"L.D.College Of Engineering, Ahmedabad",Information Technology
+2023-24,24868,2057,General,"L.D.College Of Engineering, Ahmedabad",Mechanical Engineering
+2023-24,4418,901868,General,"L.D.College Of Engineering, Ahmedabad",Mechanical Engineering
+2023-24,21018,920869,General,"L.D.College Of Engineering, Ahmedabad",PLASTIC TECHNOLOGY
+2023-24,28274,920410,General,"L.D.College Of Engineering, Ahmedabad",RUBBER TECHNOLOGY
+2023-24,16836,920007,General,"L.D.College Of Engineering, Ahmedabad",TEXTILE TECHNOLOGY
+2023-24,29254,4858,General,"L.D.R.P. Institute Of Tech. & Research., Gandhinagar",Computer Engineering
+2023-24,25545,4349,General,"L.D.R.P. Institute Of Tech. & Research., Gandhinagar",Information Technology
+2023-24,29758,920920,General,"L.E.College ,Morbi",Chemical Engineering
+2023-24,25988,921517,General,"L.E.College ,Morbi",Civil Engineering
+2023-24,21610,917452,General,"L.E.College ,Morbi",Electrical Engineering
+2023-24,901828,7589,General,"L.E.College ,Morbi",Information Technology
+2023-24,28980,919522,General,"L.E.College ,Morbi",Mechanical Engineering
+2023-24,13743,3056,General,"L.J. Institute Of Engg And Tech., Ahmedabad",Computer Engineering
+2023-24,10182,3350,General,"L.J. Institute Of Engg And Tech., Ahmedabad",Computer Science
+2023-24,25399,3259,General,"L.J. Institute Of Engg And Tech., Ahmedabad",Computer Science
+2023-24,22728,3910,General,"L.J. Institute Of Engg And Tech., Ahmedabad",Computer Science
+2023-24,29880,23787,General,"L.J. Institute Of Engg And Tech., Ahmedabad",Computer Science
+2023-24,27692,27713,General,"L.J. Institute Of Engg And Tech., Ahmedabad",Computer Science
+2023-24,28309,3437,General,"L.J. Institute Of Engg And Tech., Ahmedabad",Information Technology
+2023-24,30186,13958,General,"Laxmi Institute Of Technology, Sarigam, Valsad",Computer Science
+2023-24,28931,12345,General,"Laxmi Institute Of Technology, Sarigam, Valsad",Information Technology
+2023-24,30359,6395,General,MECHANICAL ENGINEERING,Mechanical Engineering
+2023-24,30237,25958,General,MECHANICAL ENGINEERING,Mechanical Engineering
+2023-24,30427,6039,General,"Madhuben & Bhanubhai Patel Institute of Technology, New
+V.V.Nagar",Computer Engineering
+2023-24,30308,6700,General,"Madhuben & Bhanubhai Patel Institute of Technology, New
+V.V.Nagar",Information Technology
+2023-24,30497,14948,General,"Marwadi Education Foundation's Group of Institutions -
+Faculty of Engineering & Technology, Rajkot",Civil Engineering
+2023-24,24864,4457,General,"Marwadi Education Foundation's Group of Institutions -
+Faculty of Engineering & Technology, Rajkot",Computer Engineering
+2023-24,9552,902753,General,"Marwadi Education Foundation's Group of Institutions -
+Faculty of Engineering & Technology, Rajkot",Computer Engineering
+2023-24,9221,901945,General,"Marwadi Education Foundation's Group of Institutions -
+Faculty of Engineering & Technology, Rajkot",Computer Engineering
+2023-24,921339,8661,General,"Marwadi Education Foundation's Group of Institutions -
+Faculty of Engineering & Technology, Rajkot","INFORMATION &
+COMMUNICATION
+TECHNOLOGY"
+2023-24,9767,901937,General,"Marwadi Education Foundation's Group of Institutions -
+Faculty of Engineering & Technology, Rajkot",Information Technology
+2023-24,915164,17868,General,"Marwadi Education Foundation's Group of Institutions -
+Faculty of Engineering & Technology, Rajkot",Mechanical Engineering
+2023-24,17115,4356,General,New L.J. Institute of Engineering & Technology,Computer Science
+2023-24,17516,5084,General,New L.J. Institute of Engineering & Technology,Computer Science
+2023-24,22751,18616,General,"Noble Star Engineering College, Makhiyala, Junagadh",Computer Engineering
+2023-24,29601,6802,General,"P.P. Savani School of Engineering, P.P. Savani University,
+Kosamba",Computer Engineering
+2023-24,30280,9284,General,"P.P. Savani School of Engineering, P.P. Savani University,
+Kosamba",Computer Engineering
+2023-24,20842,5346,General,"P.P. Savani School of Engineering, P.P. Savani University,
+Kosamba",Computer Science
+2023-24,28575,9358,General,"P.P. Savani School of Engineering, P.P. Savani University,
+Kosamba",Computer Science
+2023-24,29852,5693,General,"P.P. Savani School of Engineering, P.P. Savani University,
+Kosamba",Information Technology
+2023-24,20902,918823,General,PRODUCTION ENGINEERING,PRODUCTION ENGINEERING
+2023-24,30133,10902,General,"Pacific School Of Engineering, Surat",Computer Engineering
+2023-24,4088,902238,General,"Pandit Deendayal Energy University ,Gandhinagar",Chemical Engineering
+2023-24,7107,903946,General,"Pandit Deendayal Energy University ,Gandhinagar",Civil Engineering
+2023-24,308,900393,General,"Pandit Deendayal Energy University ,Gandhinagar",Computer Engineering
+2023-24,2180,901070,General,"Pandit Deendayal Energy University ,Gandhinagar","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2023-24,8711,902404,General,"Pandit Deendayal Energy University ,Gandhinagar",Electrical Engineering
+2023-24,5104,902549,General,"Pandit Deendayal Energy University ,Gandhinagar",Electrical Engineering
+2023-24,518,900784,General,"Pandit Deendayal Energy University ,Gandhinagar","INFORMATION &
+COMMUNICATION
+TECHNOLOGY"
+2023-24,3408,912644,General,"Pandit Deendayal Energy University ,Gandhinagar","INFORMATION &
+COMMUNICATION
+TECHNOLOGY"
+2023-24,6096,901696,General,"Pandit Deendayal Energy University ,Gandhinagar",Mechanical Engineering
+2023-24,1451,22242,General,"Parul Institute of Engineering & Technology, Waghodia,
+Vadodara",Computer Science
+2023-24,28076,16287,General,"Parul Institute of Engineering & Technology, Waghodia,
+Vadodara",Computer Science
+2023-24,29379,16932,General,"Parul Institute of Engineering & Technology, Waghodia,
+Vadodara",Computer Science
+2023-24,30180,18852,General,"Parul Institute of Engineering & Technology, Waghodia,
+Vadodara",Computer Science
+2023-24,30391,22087,General,"Parul Institute of Engineering & Technology, Waghodia,
+Vadodara",Computer Science
+2023-24,30434,12555,General,"Parul Institute of Engineering & Technology, Waghodia,
+Vadodara",Computer Science
+2023-24,30326,8975,General,"Parul Institute of Engineering & Technology, Waghodia,
+Vadodara",Information Technology
+2023-24,25006,13815,General,"Parul Institute of Technology, Waghodia, Vadodara",Computer Science
+2023-24,25280,28008,General,"Parul Institute of Technology, Waghodia, Vadodara",Computer Science
+2023-24,27623,17937,General,"Parul Institute of Technology, Waghodia, Vadodara",Computer Science
+2023-24,24509,10746,General,"Parul Institute of Technology, Waghodia, Vadodara",FOOD TECHNOLOGY
+2023-24,28474,7522,General,"R.N.G. Patel Institute of Technology-RNGPIT , Bardoli",Computer Science
+2023-24,30057,19729,General,"R.N.G. Patel Institute of Technology-RNGPIT , Bardoli",Electrical Engineering
+2023-24,29753,7156,General,"R.N.G. Patel Institute of Technology-RNGPIT , Bardoli",Information Technology
+2023-24,28141,9094,General,"S.S.AGRAWAL INSTITUTE OF ENGINEERING &
+TECHNOLOGY NAVSARI",Computer Engineering
+2023-24,28800,7003,General,"SAL ENGINEERING &TECHNICAL INSTITUTE, SOLA,
+AHMEDABAD",Computer Engineering
+2023-24,30168,5909,General,"SAL ENGINEERING &TECHNICAL INSTITUTE, SOLA,
+AHMEDABAD",Computer Science
+2023-24,29085,4900,General,"SAL ENGINEERING &TECHNICAL INSTITUTE, SOLA,
+AHMEDABAD",Information Technology
+2023-24,29856,7785,General,"SARDAR PATEL COLLEGE OF ENGINEERING, BAKROL
+ANAND",Computer Engineering
+2023-24,30364,12186,General,"SARDAR PATEL COLLEGE OF ENGINEERING, BAKROL
+ANAND",Computer Science
+2023-24,30221,13370,General,"SARDAR PATEL COLLEGE OF ENGINEERING, BAKROL
+ANAND",Information Technology
+2023-24,30284,12897,General,"SCHOOL OF TECHNOLOGY, GSFC UNIVERSITY,
+VADODARA",Computer Science
+2023-24,29670,5033,General,"SHREE SWAMINARAYAN INSTITUTE OF
+TECHNOLOGY, BHAT, GANDHINAGAR",Computer Science
+2023-24,29510,6117,General,"Sal College Of Engineering , Ahmedabad",Computer Engineering
+2023-24,25886,7621,General,"Sal College Of Engineering , Ahmedabad",Computer Science
+2023-24,29817,6884,General,"Sal College Of Engineering , Ahmedabad",Information Technology
+2023-24,28497,7239,General,"Sal Institute Of Tech. & Engg. Research, Ahmedabad",Computer Engineering
+2023-24,30078,5742,General,"Sal Institute Of Tech. & Engg. Research, Ahmedabad",Computer Science
+2023-24,30084,5734,General,"Sal Institute Of Tech. & Engg. Research, Ahmedabad",Computer Science
+2023-24,30322,3256,General,"Sardar Vallabhbhai Patel Institute Of Tech.,Vasad",AERONAUTICAL ENGINEERING
+2023-24,14845,3679,General,"Sardar Vallabhbhai Patel Institute Of Tech.,Vasad",Computer Engineering
+2023-24,13170,6926,General,"Sardar Vallabhbhai Patel Institute Of Tech.,Vasad",Computer Science
+2023-24,18490,3516,General,"Sardar Vallabhbhai Patel Institute Of Tech.,Vasad",Information Technology
+2023-24,23114,963,General,"Sarvajanik College Of Engg. & Tech. , Surat",Computer Engineering
+2023-24,25839,5307,General,"Sarvajanik College Of Engg. & Tech. , Surat","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2023-24,30448,1667,General,"Sarvajanik College Of Engg. & Tech. , Surat",Information Technology
+2023-24,8143,2650,General,"Sarvajanik College Of Engg. & Tech. , Surat",Information Technology
+2023-24,30540,7503,General,"School of Engg. and Applied Science, Ahmedabad University,
+Ahmedabad",Chemical Engineering
+2023-24,12770,510,General,"School of Engg. and Applied Science, Ahmedabad University,
+Ahmedabad",Computer Science
+2023-24,17835,12151,General,"School of Engg. and Applied Science, Ahmedabad University,
+Ahmedabad",Mechanical Engineering
+2023-24,29486,6818,General,"School of Engineering and Technology, Navrachana University,
+Vadodara",Computer Science
+2023-24,28482,920964,General,"Shantilal Shah Engineering College ,Bhavnagar",Civil Engineering
+2023-24,29889,919791,General,"Shantilal Shah Engineering College ,Bhavnagar",Electrical Engineering
+2023-24,7706,902318,General,"Shantilal Shah Engineering College ,Bhavnagar",Information Technology
+2023-24,30441,12360,General,"Shri Sitaram N Patel Inst. Of Tech. & Res. (Vidhyabharti
+Trust), Umrakh",Computer Science
+2023-24,11220,4050,General,"Shri Swami Atmanand Saraswati Institute Of Tech., Surat",Computer Engineering
+2023-24,12996,4941,General,"Shri Swami Atmanand Saraswati Institute Of Tech., Surat",Information Technology
+2023-24,28750,12145,General,"Shroff S.R.Rotary Inst. Of Chemical Technology,
+Vatatia,Bharuch","Shroff S.R.Rotary Inst. Of Chemical Technology,
+Vatatia,Bharuch"
+2023-24,26502,13280,General,"Sigma Institute Of Engg., Bakrol",Computer Engineering
+2023-24,21487,17242,General,"Silver Oak College Of Engg., & Tech. (WITHIN
+AMHEDABAD MUNICIPAL CORPORATION LIMIT),
+Ahmedabad",Computer Engineering
+2023-24,29052,9891,General,"Silver Oak College Of Engg., & Tech. (WITHIN
+AMHEDABAD MUNICIPAL CORPORATION LIMIT),
+Ahmedabad",Computer Science
+2023-24,30462,6776,General,"Silver Oak College Of Engg., & Tech. (WITHIN
+AMHEDABAD MUNICIPAL CORPORATION LIMIT),
+Ahmedabad",Computer Science
+2023-24,29122,10802,General,"Smt. S.R. Patel Engg. College, Dabhi, Unjha",Computer Engineering
+2023-24,18141,4564,General,"Unitedworld School of Computational Intelligence, Uvarsad,
+Gandhinagar",Computer Science
+2023-24,23540,6085,General,"Unitedworld School of Computational Intelligence, Uvarsad,
+Gandhinagar",Computer Science
+2023-24,27273,3451,General,"V.V.P. Engineering College, Rajkot",Computer Engineering
+2023-24,25272,9996,General,"V.V.P. Engineering College, Rajkot","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2023-24,26419,14149,General,"V.V.P. Engineering College, Rajkot","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2023-24,27454,5475,General,"V.V.P. Engineering College, Rajkot",Information Technology
+2023-24,21618,19796,General,"Vidhyadeep Institute of Engineering & Technology,
+Anita(Kim), Surat",Computer Engineering
+2023-24,30088,16103,General,"Vidhyadeep Institute of Engineering & Technology,
+Anita(Kim), Surat",Information Technology
+2023-24,15623,6729,General,"Vishwakarma Government Engineering College,
+Chandkheda,Gandhinagar",Chemical Engineering
+2023-24,904430,7962,General,"Vishwakarma Government Engineering College,
+Chandkheda,Gandhinagar",Civil Engineering
+2023-24,5266,1098,General,"Vishwakarma Government Engineering College,
+Chandkheda,Gandhinagar",Computer Engineering
+2023-24,1676,900838,General,"Vishwakarma Government Engineering College,
+Chandkheda,Gandhinagar",Computer Science
+2023-24,4542,901033,General,"Vishwakarma Government Engineering College,
+Chandkheda,Gandhinagar","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2023-24,21157,27946,General,"Vishwakarma Government Engineering College,
+Chandkheda,Gandhinagar","ELECTRONICS &
+INSTRUMENTATION
+ENGINEERING"
+2023-24,11217,901454,General,"Vishwakarma Government Engineering College,
+Chandkheda,Gandhinagar",Electrical Engineering
+2023-24,8686,2317,General,"Vishwakarma Government Engineering College,
+Chandkheda,Gandhinagar","INFORMATION &
+COMMUNICATION
+TECHNOLOGY"
+2023-24,25505,904489,General,"Vishwakarma Government Engineering College,
+Chandkheda,Gandhinagar","INSTRUMENTATION &
+CONTROL ENGINEERING"
+2023-24,5839,1331,General,"Vishwakarma Government Engineering College,
+Chandkheda,Gandhinagar",Information Technology
+2023-24,20961,10120,General,"Vishwakarma Government Engineering College,
+Chandkheda,Gandhinagar",Mechanical Engineering
+2023-24,30161,921368,General,"Vishwakarma Government Engineering College,
+Chandkheda,Gandhinagar",POWER ELECTRONICS
+2024-25,22975,5287,General,"A.D.Patel Institute Of Tech.,Karamsad",Computer Engineering
+2024-25,25105,3381,General,"A.D.Patel Institute Of Tech.,Karamsad",Computer Engineering
+2024-25,31356,8752,General,"A.D.Patel Institute Of Tech.,Karamsad",Computer Science
+2024-25,50523,8529,General,"A.D.Patel Institute Of Tech.,Karamsad","FOOD PROCESSING
+TECHNOLOGY"
+2024-25,29671,7257,General,"A.D.Patel Institute Of Tech.,Karamsad",Information Technology
+2024-25,27529,1856,General,"ADANI UNIVERSITY - FACULTY OF
+ENGINEERING SCIENCES &
+TECHNOLOGY (AU-FEST),",Computer Science
+2024-25,9777,2650,General,"ADANI UNIVERSITY - FACULTY OF
+ENGINEERING SCIENCES &
+TECHNOLOGY (AU-FEST),","INFORMATION &
+COMMUNICATION
+TECHNOLOGY"
+2024-25,50518,18374,General,"ADITYA SILVER OAK INSTITUTE OF
+TECHNOLOGY (WITHIN LIMITS OF
+AHMEDABAD MUNICIPAL",Computer Science
+2024-25,33719,12638,General,"Ahmedabad Institute Of Tech,
+Ahmedabad",Computer Science
+2024-25,36502,10226,General,"Ahmedabad Institute Of Tech,
+Ahmedabad",Information Technology
+2024-25,17482,22809,General,"Ahmedabad University, Ahmedabad","CHEMICAL &
+ENVIRONMENTAL
+ENGINEERING"
+2024-25,20879,969,General,"Ahmedabad University, Ahmedabad",Computer Science
+2024-25,28594,2979,General,"Ahmedabad University, Ahmedabad","ELECTRICAL AND ELECTRONICS
+ENGINEERING"
+2024-25,23276,7453,General,"Ahmedabad University, Ahmedabad",Mechanical Engineering
+2024-25,50638,11062,General,"Asha M. Tarsadia Institute of
+Computer Science & Tech. Bardoli",Computer Science
+2024-25,50385,21181,General,"Asha M. Tarsadia Institute of
+Computer Science & Tech. Bardoli",Computer Science
+2024-25,50220,5679,General,"Asha M. Tarsadia Institute of
+Computer Science & Tech. Bardoli",Computer Science
+2024-25,38788,11605,General,"Asha M. Tarsadia Institute of
+Computer Science & Tech. Bardoli",Computer Science
+2024-25,50484,8045,General,"Atmiya University, Faculty of
+Engineering and Technology, Rajkot",Computer Engineering
+2024-25,50381,7915,General,"Atmiya University, Faculty of
+Engineering and Technology, Rajkot",Computer Science
+2024-25,34047,8724,General,"Atmiya University, Faculty of
+Engineering and Technology, Rajkot",Information Technology
+2024-25,39681,19818,General,"Bhagwan Mahavir College Of Engg.
+And Tech., Surat",Computer Engineering
+2024-25,39694,27671,General,"Bhagwan Mahavir College Of Engg.
+And Tech., Surat",Computer Engineering
+2024-25,34045,28693,General,"Bhagwan Mahavir College Of Engg.
+And Tech., Surat",Computer Engineering
+2024-25,25570,8438,General,"C. K. Pithawala College Of Engg. &
+Tech., Surat",Computer Engineering
+2024-25,50585,27474,General,"C. K. Pithawala College Of Engg. &
+Tech., Surat",Electrical Engineering
+2024-25,27218,7905,General,"C. K. Pithawala College Of Engg. &
+Tech., Surat",Information Technology
+2024-25,903548,102423,General,CIVIL ENGINEERING,Civil Engineering
+2024-25,901112,31746,General,COMPUTER ENGINEERING,Computer Engineering
+2024-25,17771,1414,General,COMPUTER ENGINEERING,Computer Engineering
+2024-25,11721,1405,General,"Charotar University of Science &
+Technology (CHARUSAT) -
+Chandubhai S Patel Institute Of",Computer Engineering
+2024-25,12079,1076,General,"Charotar University of Science &
+Technology (CHARUSAT) -
+Chandubhai S Patel Institute Of",Computer Science
+2024-25,21235,5963,General,"Charotar University of Science &
+Technology (CHARUSAT) -
+Chandubhai S Patel Institute Of","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,30506,28335,General,"Charotar University of Science &
+Technology (CHARUSAT) -
+Chandubhai S Patel Institute Of",Electrical Engineering
+2024-25,16613,1505,General,"Charotar University of Science &
+Technology (CHARUSAT) -
+Chandubhai S Patel Institute Of",Information Technology
+2024-25,8203,1445,General,"Charotar University of Science &
+Technology (CHARUSAT) -
+Chandubhai S Patel Institute Of",Mechanical Engineering
+2024-25,39259,30907,General,"Charotar University of Science &
+Technology (CHARUSAT) -
+Chandubhai S Patel Institute Of",Mechanical Engineering
+2024-25,6674,1831,General,"Charotar University of Science &
+Technology (CHARUSAT) - Devang
+Patel Institute of Advance Technology",Computer Engineering
+2024-25,5845,1827,General,"Charotar University of Science &
+Technology (CHARUSAT) - Devang
+Patel Institute of Advance Technology",Computer Science
+2024-25,24079,2235,General,"Charotar University of Science &
+Technology (CHARUSAT) - Devang
+Patel Institute of Advance Technology",Information Technology
+2024-25,50445,12970,General,"Chhotubhai Gopalbhai Patel Institute
+Of Tech., Tarsadi, Bardoli",Computer Engineering
+2024-25,9654,19967,General,"Chhotubhai Gopalbhai Patel Institute
+Of Tech., Tarsadi, Bardoli",Information Technology
+2024-25,50409,15700,General,"Chhotubhai Gopalbhai Patel Institute
+Of Tech., Tarsadi, Bardoli",Information Technology
+2024-25,904644,133801,General,"DR. S & S.S.Ghandhi Government
+Engineering College Surat",Civil Engineering
+2024-25,901709,47956,General,"DR. S & S.S.Ghandhi Government
+Engineering College Surat",Computer Engineering
+2024-25,901850,52477,General,"DR. S & S.S.Ghandhi Government
+Engineering College Surat","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,50606,931210,General,"DR. S & S.S.Ghandhi Government
+Engineering College Surat","ENVIRONMENTAL
+ENGINEERING"
+2024-25,904759,136997,General,"DR. S & S.S.Ghandhi Government
+Engineering College Surat",Electrical Engineering
+2024-25,904544,131139,General,"DR. S & S.S.Ghandhi Government
+Engineering College Surat",Mechanical Engineering
+2024-25,36200,10863,General,"Darshan Institute Of Engg. & Tech.,
+Rajkot-Morbi Highway, Hadala",Civil Engineering
+2024-25,10522,2831,General,"Darshan Institute Of Engg. & Tech.,
+Rajkot-Morbi Highway, Hadala",Computer Science
+2024-25,347,96,General,"Dhirubhai Ambani Institute of Info. &
+Comm. Tech., Gandhinagar","ELECTRONICS ENGINEERING
+(VLSI DESIGN AND
+TECHNOLOGY)"
+2024-25,120,13,General,"Dhirubhai Ambani Institute of Info. &
+Comm. Tech., Gandhinagar","ELECTRONICS ENGINEERING
+(VLSI DESIGN AND
+TECHNOLOGY)"
+2024-25,2643,35,General,"Dhirubhai Ambani Institute of Info. &
+Comm. Tech., Gandhinagar","INFORMATION &
+COMMUNICATION
+TECHNOLOGY"
+2024-25,113,33,General,"Dhirubhai Ambani Institute of Info. &
+Comm. Tech., Gandhinagar","INFORMATION &
+COMMUNICATION
+TECHNOLOGY"
+2024-25,901744,48827,General,ELECTRICAL ENGINEERING,Electrical Engineering
+2024-25,12039,3014,General,"ELECTRONICS &
+COMMUNICATION
+ENGINEERING","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,901095,31237,General,ELECTRONICS ENGINEERING,ELECTRONICS ENGINEERING
+2024-25,8183,1147,General,"Faculty Of Technology &
+Engineering(MSU)(SFI), Vadodara",Computer Science
+2024-25,50620,932501,General,"Faculty Of Technology &
+Engineering(MSU), Vadodara","CIVIL IRRIGATION WATER
+MANAGEMENT"
+2024-25,900200,6581,General,"Faculty Of Technology &
+Engineering(MSU), Vadodara",Chemical Engineering
+2024-25,904350,125742,General,"Faculty Of Technology &
+Engineering(MSU), Vadodara",Civil Engineering
+2024-25,900182,6110,General,"Faculty Of Technology &
+Engineering(MSU), Vadodara",Computer Science
+2024-25,900206,6823,General,"Faculty Of Technology &
+Engineering(MSU), Vadodara",ELECTRONICS ENGINEERING
+2024-25,901062,30492,General,"Faculty Of Technology &
+Engineering(MSU), Vadodara",Electrical Engineering
+2024-25,900785,23033,General,"Faculty Of Technology &
+Engineering(MSU), Vadodara",Mechanical Engineering
+2024-25,905205,148386,General,"Faculty Of Technology &
+Engineering(MSU), Vadodara",Mechanical Engineering
+2024-25,39805,990398,General,"Faculty Of Technology &
+Engineering(MSU), Vadodara",TEXTILE ENGINEERING
+2024-25,925592,825356,General,"Faculty Of Technology &
+Engineering(MSU), Vadodara",TEXTILE PROCESSING
+2024-25,39082,932137,General,"Faculty Of Technology &
+Engineering(MSU), Vadodara",TEXTILE TECHNOLOGY
+2024-25,901468,41396,General,"Faculty Of Technology And
+Engineering(GIA), Dharmsinh Desai
+University, (DDU), Nadiad",Chemical Engineering
+2024-25,902695,77237,General,"Faculty Of Technology And
+Engineering(GIA), Dharmsinh Desai
+University, (DDU), Nadiad",Civil Engineering
+2024-25,900138,4836,General,"Faculty Of Technology And
+Engineering(GIA), Dharmsinh Desai
+University, (DDU), Nadiad",Computer Engineering
+2024-25,900811,23777,General,"Faculty Of Technology And
+Engineering(GIA), Dharmsinh Desai
+University, (DDU), Nadiad","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,902238,63232,General,"Faculty Of Technology And
+Engineering(GIA), Dharmsinh Desai
+University, (DDU), Nadiad","INSTRUMENTATION &
+CONTROL ENGINEERING"
+2024-25,14245,4931,General,"Faculty Of Technology(Sfi),
+Dharmsinh Desai University, Nadiad",Chemical Engineering
+2024-25,3793,195,General,"Faculty Of Technology(Sfi),
+Dharmsinh Desai University, Nadiad",Computer Engineering
+2024-25,5151,1643,General,"Faculty Of Technology(Sfi),
+Dharmsinh Desai University, Nadiad","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,24876,21737,General,"Faculty Of Technology(Sfi),
+Dharmsinh Desai University, Nadiad","INSTRUMENTATION &
+CONTROL ENGINEERING"
+2024-25,2021,664,General,"Faculty Of Technology(Sfi),
+Dharmsinh Desai University, Nadiad",Information Technology
+2024-25,22038,6228,General,"Faculty Of Technology(Sfi),
+Dharmsinh Desai University, Nadiad",Mechanical Engineering
+2024-25,32435,5666,General,"Faculty of Engineering & Technology-
+GLS University, Ahmedabad",Computer Science
+2024-25,33103,31962,General,"Faculty of Technology, CEPT
+University, Ahmedabad",Civil Engineering
+2024-25,13487,1848,General,"G.H.Patel College Of Engg. & Tech. ,
+V. V. Nagar",Computer Engineering
+2024-25,15313,2916,General,"G.H.Patel College Of Engg. & Tech. ,
+V. V. Nagar",Computer Science
+2024-25,12904,4652,General,"G.H.Patel College Of Engg. & Tech. ,
+V. V. Nagar",Computer Science
+2024-25,50324,20100,General,"G.H.Patel College Of Engg. & Tech. ,
+V. V. Nagar","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,17430,7922,General,"G.H.Patel College Of Engg. & Tech. ,
+V. V. Nagar","INFORMATION &
+COMMUNICATION
+TECHNOLOGY"
+2024-25,19876,2870,General,"G.H.Patel College Of Engg. & Tech. ,
+V. V. Nagar",Information Technology
+2024-25,39339,12745,General,"GIDC Degree Engineering College,
+Abrama, Navsari",Computer Engineering
+2024-25,50218,9894,General,"GYANMANJARI INSTITUTE OF
+TECHNOLOGY Bhavnagar",Computer Engineering
+2024-25,39789,35718,General,"GYANMANJARI INSTITUTE OF
+TECHNOLOGY Bhavnagar","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,39506,7990,General,"Gandhinagar Institute Of Technology,
+Moti Bhoyan, Kalol, Gandhinagar",Computer Science
+2024-25,38572,8316,General,"Gandhinagar Institute Of Technology,
+Moti Bhoyan, Kalol, Gandhinagar",Computer Science
+2024-25,31327,23215,General,"Gandhinagar Institute Of Technology,
+Moti Bhoyan, Kalol, Gandhinagar",Computer Science
+2024-25,37489,8281,General,"Ganpat University, Institute of
+Computer Tech., Kherva, Mehsana","Ganpat University, Institute of
+Computer Tech., Kherva, Mehsana"
+2024-25,20742,8159,General,"Ganpat University, Institute of
+Computer Tech., Kherva, Mehsana","Ganpat University, Institute of
+Computer Tech., Kherva, Mehsana"
+2024-25,50238,10508,General,"Ganpat University, U.V.Patel College
+of Engineering, Kherva, Mehsana",Computer Engineering
+2024-25,39653,13729,General,"Ganpat University, U.V.Patel College
+of Engineering, Kherva, Mehsana",Computer Engineering
+2024-25,36547,11944,General,"Ganpat University, U.V.Patel College
+of Engineering, Kherva, Mehsana",FOOD TECHNOLOGY
+2024-25,39753,17625,General,"Ganpat University, U.V.Patel College
+of Engineering, Kherva, Mehsana","Ganpat University, Institute of
+Computer Tech., Kherva, Mehsana"
+2024-25,33927,19478,General,"Ganpat University, U.V.Patel College
+of Engineering, Kherva, Mehsana","Ganpat University, Institute of
+Computer Tech., Kherva, Mehsana"
+2024-25,50415,11113,General,"Ganpat University, U.V.Patel College
+of Engineering, Kherva, Mehsana",Information Technology
+2024-25,903645,105168,General,"Government Engineering College,
+Bharuch",Chemical Engineering
+2024-25,928126,975642,General,"Government Engineering College,
+Bharuch",Civil Engineering
+2024-25,901225,34897,General,"Government Engineering College,
+Bharuch",Computer Engineering
+2024-25,904907,140772,General,"Government Engineering College,
+Bharuch","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,908083,223748,General,"Government Engineering College,
+Bharuch",Electrical Engineering
+2024-25,908835,243355,General,"Government Engineering College,
+Bharuch",Mechanical Engineering
+2024-25,911257,309765,General,"Government Engineering College,
+Bhavnagar",Civil Engineering
+2024-25,900563,16383,General,"Government Engineering College,
+Bhavnagar",Computer Engineering
+2024-25,903793,109903,General,"Government Engineering College,
+Bhavnagar","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,902235,63145,General,"Government Engineering College,
+Bhavnagar","INFORMATION &
+COMMUNICATION
+TECHNOLOGY"
+2024-25,901283,36567,General,"Government Engineering College,
+Bhavnagar",Information Technology
+2024-25,50084,990390,General,"Government Engineering College,
+Bhavnagar",Mechanical Engineering
+2024-25,50012,931865,General,"Government Engineering College,
+Bhuj",Chemical Engineering
+2024-25,990173,786816,General,"Government Engineering College,
+Bhuj",Civil Engineering
+2024-25,39877,990322,General,"Government Engineering College,
+Bhuj",Electrical Engineering
+2024-25,926753,891690,General,"Government Engineering College,
+Bhuj",MINING ENGINEERING
+2024-25,50365,990412,General,"Government Engineering College,
+Bhuj",Mechanical Engineering
+2024-25,40028,932390,General,"Government Engineering College,
+Dahod",Civil Engineering
+2024-25,903433,99259,General,"Government Engineering College,
+Dahod",Computer Engineering
+2024-25,906161,174030,General,"Government Engineering College,
+Dahod","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,38381,932302,General,"Government Engineering College,
+Dahod",Electrical Engineering
+2024-25,39258,930431,General,"Government Engineering College,
+Dahod",Mechanical Engineering
+2024-25,39088,931750,General,"Government Engineering College,
+Godhra",Civil Engineering
+2024-25,39771,931394,General,"Government Engineering College,
+Godhra",Electrical Engineering
+2024-25,38484,990374,General,"Government Engineering College,
+Godhra",Mechanical Engineering
+2024-25,38222,930610,General,"Government Engineering College,
+Modasa",AUTOMOBILE ENGINEERING
+2024-25,39746,932480,General,"Government Engineering College,
+Modasa",Civil Engineering
+2024-25,902068,58456,General,"Government Engineering College,
+Modasa",Computer Engineering
+2024-25,906291,177587,General,"Government Engineering College,
+Modasa","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,50577,990294,General,"Government Engineering College,
+Modasa",Electrical Engineering
+2024-25,905753,163301,General,"Government Engineering College,
+Modasa",Information Technology
+2024-25,39732,932180,General,"Government Engineering College,
+Modasa",Mechanical Engineering
+2024-25,990007,186333,General,"Government Engineering College,
+Palanpur",Civil Engineering
+2024-25,903117,89249,General,"Government Engineering College,
+Palanpur",Computer Engineering
+2024-25,990118,634916,General,"Government Engineering College,
+Palanpur",Electrical Engineering
+2024-25,38640,990420,General,"Government Engineering College,
+Palanpur",Mechanical Engineering
+2024-25,990046,415293,General,"Government Engineering College,
+Patan",Civil Engineering
+2024-25,902865,82316,General,"Government Engineering College,
+Patan",Computer Science
+2024-25,907565,211147,General,"Government Engineering College,
+Patan","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,38370,932488,General,"Government Engineering College,
+Patan",Electrical Engineering
+2024-25,50609,990266,General,"Government Engineering College,
+Patan",Mechanical Engineering
+2024-25,908569,236183,General,"Government Engineering College,
+Rajkot",Civil Engineering
+2024-25,901329,37735,General,"Government Engineering College,
+Rajkot",Computer Engineering
+2024-25,904458,128724,General,"Government Engineering College,
+Rajkot","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,906734,189196,General,"Government Engineering College,
+Rajkot",Electrical Engineering
+2024-25,39221,930695,General,"Government Engineering College,
+Rajkot","INSTRUMENTATION &
+CONTROL ENGINEERING"
+2024-25,901620,45271,General,"Government Engineering College,
+Rajkot",Mechanical Engineering
+2024-25,905745,163111,General,"Government Engineering College,
+Rajkot",Mechanical Engineering
+2024-25,908729,240828,General,"Government Engineering College,
+Rajkot",Mechanical Engineering
+2024-25,50550,990318,General,"Government Engineering College,
+Sector 28 Gandhinagar",BIOMEDICAL ENGINEERING
+2024-25,904622,133305,General,"Government Engineering College,
+Sector 28 Gandhinagar",Civil Engineering
+2024-25,901418,40322,General,"Government Engineering College,
+Sector 28 Gandhinagar",Computer Engineering
+2024-25,902322,65813,General,"Government Engineering College,
+Sector 28 Gandhinagar","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,904500,129923,General,"Government Engineering College,
+Sector 28 Gandhinagar",Electrical Engineering
+2024-25,903310,94898,General,"Government Engineering College,
+Sector 28 Gandhinagar","INSTRUMENTATION &
+CONTROL ENGINEERING"
+2024-25,901534,43355,General,"Government Engineering College,
+Sector 28 Gandhinagar",Information Technology
+2024-25,38449,930649,General,"Government Engineering College,
+Sector 28 Gandhinagar",METALLURGY
+2024-25,901564,44125,General,"Government Engineering College,
+Sector 28 Gandhinagar",METALLURGY
+2024-25,903439,99512,General,"Government Engineering College,
+Sector 28 Gandhinagar",Mechanical Engineering
+2024-25,906880,193176,General,"Government Engineering College,
+Valsad",Chemical Engineering
+2024-25,39657,932187,General,"Government Engineering College,
+Valsad",Civil Engineering
+2024-25,909563,262570,General,"Government Engineering College,
+Valsad",Electrical Engineering
+2024-25,914192,391359,General,"Government Engineering College,
+Valsad",Mechanical Engineering
+2024-25,50263,12258,General,"Gujarat Power Engg. And Res. Inst.
+(Gperi) (Ppp), Mevad, Mehsana",Computer Engineering
+2024-25,9863,3152,General,"Gujarat Technological University
+School of Engineering and
+Technology, Chandkheda Ahmedabad",Computer Engineering
+2024-25,19857,8376,General,"Gujarat Technological University
+School of Engineering and
+Technology, Chandkheda Ahmedabad","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,5109,1389,General,INFORMATION TECHNOLOGY,Information Technology
+2024-25,39900,7392,General,"Indus Institute Of Tech. & Engg.,
+Racharda, Ahmedabad",Computer Engineering
+2024-25,50604,9842,General,"Indus Institute Of Tech. & Engg.,
+Racharda, Ahmedabad",Computer Science
+2024-25,50481,9294,General,"Indus Institute Of Tech. & Engg.,
+Racharda, Ahmedabad",Information Technology
+2024-25,5827,825,General,"Institute Of Technology, Nirma
+University Of Science & Technology,
+Ahmedabad",Chemical Engineering
+2024-25,545,174,General,"Institute Of Technology, Nirma
+University Of Science & Technology,
+Ahmedabad",Civil Engineering
+2024-25,20153,1310,General,"Institute Of Technology, Nirma
+University Of Science & Technology,
+Ahmedabad",Civil Engineering
+2024-25,2530,102,General,"Institute Of Technology, Nirma
+University Of Science & Technology,
+Ahmedabad",Computer Science
+2024-25,10618,388,General,"Institute Of Technology, Nirma
+University Of Science & Technology,
+Ahmedabad","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,6789,1595,General,"Institute Of Technology, Nirma
+University Of Science & Technology,
+Ahmedabad","ELECTRONICS &
+INSTRUMENTATION
+ENGINEERING"
+2024-25,11105,2033,General,"Institute Of Technology, Nirma
+University Of Science & Technology,
+Ahmedabad",Electrical Engineering
+2024-25,21876,702,General,"Institute Of Technology, Nirma
+University Of Science & Technology,
+Ahmedabad",Mechanical Engineering
+2024-25,39128,7697,General,"Institute of Advanced Research,
+Gandhinagar",Computer Engineering
+2024-25,50350,7874,General,"Institute of Advanced Research,
+Gandhinagar",Information Technology
+2024-25,990082,547396,General,"Institute of Infrastructure, Tech.,
+Research & Management (IITRAM),
+Maninagar, Ahmedabad",Civil Engineering
+2024-25,9137,1229,General,"Institute of Infrastructure, Tech.,
+Research & Management (IITRAM),
+Maninagar, Ahmedabad",Computer Engineering
+2024-25,33618,35296,General,"Institute of Infrastructure, Tech.,
+Research & Management (IITRAM),
+Maninagar, Ahmedabad",Electrical Engineering
+2024-25,38559,25938,General,"Institute of Infrastructure, Tech.,
+Research & Management (IITRAM),
+Maninagar, Ahmedabad",Mechanical Engineering
+2024-25,50591,16722,General,"JG University - School of Engineering,
+Ahmedabad",Mechanical Engineering
+2024-25,50165,16749,General,"JG University - School of Engineering,
+Ahmedabad",Mechanical Engineering
+2024-25,50522,13386,General,"Krishna School of Emerging
+Technology & Applied Research
+(Formerly Known as Babaria Institute",Computer Science
+2024-25,50622,18268,General,"Krishna School of Technology,
+Varnama, Vadodara",Computer Engineering
+2024-25,50028,19919,General,"Krishna School of Technology,
+Varnama, Vadodara",FOOD TECHNOLOGY
+2024-25,904764,137079,General,"L.D.College Of Engineering,
+Ahmedabad",AUTOMOBILE ENGINEERING
+2024-25,903884,112480,General,"L.D.College Of Engineering,
+Ahmedabad",BIOMEDICAL ENGINEERING
+2024-25,901859,52628,General,"L.D.College Of Engineering,
+Ahmedabad",Chemical Engineering
+2024-25,902821,80782,General,"L.D.College Of Engineering,
+Ahmedabad",Civil Engineering
+2024-25,900646,18957,General,"L.D.College Of Engineering,
+Ahmedabad",Computer Engineering
+2024-25,900961,27720,General,"L.D.College Of Engineering,
+Ahmedabad","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,902748,78638,General,"L.D.College Of Engineering,
+Ahmedabad","ENVIRONMENTAL
+ENGINEERING"
+2024-25,901549,43739,General,"L.D.College Of Engineering,
+Ahmedabad",Electrical Engineering
+2024-25,902764,79129,General,"L.D.College Of Engineering,
+Ahmedabad","INSTRUMENTATION &
+CONTROL ENGINEERING"
+2024-25,900154,5251,General,"L.D.College Of Engineering,
+Ahmedabad",Information Technology
+2024-25,900852,24855,General,"L.D.College Of Engineering,
+Ahmedabad",Mechanical Engineering
+2024-25,901774,49832,General,"L.D.College Of Engineering,
+Ahmedabad",Mechanical Engineering
+2024-25,990137,684372,General,"L.D.College Of Engineering,
+Ahmedabad",PLASTIC TECHNOLOGY
+2024-25,900987,28235,General,"L.D.College Of Engineering,
+Ahmedabad",PLASTIC TECHNOLOGY
+2024-25,906307,177846,General,"L.D.College Of Engineering,
+Ahmedabad",RUBBER TECHNOLOGY
+2024-25,990075,516862,General,"L.D.College Of Engineering,
+Ahmedabad",TEXTILE TECHNOLOGY
+2024-25,33800,6289,General,"L.D.R.P. Institute Of Tech. &
+Research., Gandhinagar",Computer Engineering
+2024-25,38472,6906,General,"L.D.R.P. Institute Of Tech. &
+Research., Gandhinagar",Information Technology
+2024-25,14935,932380,General,"L.E.College ,Morbi",Chemical Engineering
+2024-25,38080,931723,General,"L.E.College ,Morbi",Civil Engineering
+2024-25,990182,811920,General,"L.E.College ,Morbi",Electrical Engineering
+2024-25,905309,150809,General,"L.E.College ,Morbi",Information Technology
+2024-25,33992,931523,General,"L.E.College ,Morbi",Mechanical Engineering
+2024-25,12133,4231,General,"L.J. Institute Of Engg And Tech.,
+Ahmedabad",Computer Engineering
+2024-25,50013,6457,General,"L.J. Institute Of Engg And Tech.,
+Ahmedabad",Computer Engineering
+2024-25,36601,8893,General,"L.J. Institute Of Engg And Tech.,
+Ahmedabad",Computer Science
+2024-25,12823,4241,General,"L.J. Institute Of Engg And Tech.,
+Ahmedabad",Computer Science
+2024-25,19093,4665,General,"L.J. Institute Of Engg And Tech.,
+Ahmedabad",Computer Science
+2024-25,19723,4980,General,"L.J. Institute Of Engg And Tech.,
+Ahmedabad",Computer Science
+2024-25,13043,4679,General,"L.J. Institute Of Engg And Tech.,
+Ahmedabad",Computer Science
+2024-25,25994,5844,General,"L.J. Institute Of Engg And Tech.,
+Ahmedabad",Computer Science
+2024-25,50640,6078,General,"L.J. Institute Of Engg And Tech.,
+Ahmedabad",Computer Science
+2024-25,33542,30535,General,"L.J. Institute Of Engg And Tech.,
+Ahmedabad","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,24379,4533,General,"L.J. Institute Of Engg And Tech.,
+Ahmedabad",Information Technology
+2024-25,27339,24865,General,"L.J. Institute Of Engg And Tech.,
+Ahmedabad",Information Technology
+2024-25,38789,5409,General,"L.J. Institute Of Engg And Tech.,
+Ahmedabad",Information Technology
+2024-25,18928,5180,General,"L.J. Institute Of Engg And Tech.,
+Ahmedabad",Information Technology
+2024-25,32292,6053,General,"L.J. Institute Of Engg And Tech.,
+Ahmedabad",Information Technology
+2024-25,39277,17902,General,"Laxmi Institute Of Technology,
+Sarigam, Valsad",Computer Science
+2024-25,39885,16815,General,"Laxmi Institute Of Technology,
+Sarigam, Valsad",Information Technology
+2024-25,902071,58509,General,MECHANICAL ENGINEERING,Mechanical Engineering
+2024-25,18352,9607,General,MECHANICAL ENGINEERING,Mechanical Engineering
+2024-25,36019,8774,General,"Madhuben & Bhanubhai Patel
+Institute of Technology, New
+V.V.Nagar",Computer Engineering
+2024-25,50590,10869,General,"Madhuben & Bhanubhai Patel
+Institute of Technology, New
+V.V.Nagar",Information Technology
+2024-25,50506,4706,General,"Marwadi Education Foundation's
+Group of Institutions - Faculty of
+Engineering & Technology, Rajkot",Computer Science
+2024-25,50040,8037,General,"Marwadi Education Foundation's
+Group of Institutions - Faculty of
+Engineering & Technology, Rajkot",Computer Science
+2024-25,38356,7077,General,"Marwadi Education Foundation's
+Group of Institutions - Faculty of
+Engineering & Technology, Rajkot",Computer Science
+2024-25,22458,4069,General,"Marwadi Education Foundation's
+Group of Institutions - Faculty of
+Engineering & Technology, Rajkot","INFORMATION &
+COMMUNICATION
+TECHNOLOGY"
+2024-25,32036,4411,General,"New L.J. Institute of Engineering &
+Technology",Computer Science
+2024-25,18838,5117,General,"New L.J. Institute of Engineering &
+Technology",Computer Science
+2024-25,27253,5400,General,"New L.J. Institute of Engineering &
+Technology",Computer Science
+2024-25,39614,7074,General,"P.P. Savani School of Engineering,
+P.P. Savani University, Kosamba",Computer Engineering
+2024-25,18798,4111,General,"P.P. Savani School of Engineering,
+P.P. Savani University, Kosamba",Computer Science
+2024-25,50496,8949,General,"P.P. Savani School of Engineering,
+P.P. Savani University, Kosamba",Computer Science
+2024-25,33801,10532,General,"P.P. Savani School of Engineering,
+P.P. Savani University, Kosamba",Computer Science
+2024-25,37918,8234,General,"P.P. Savani School of Engineering,
+P.P. Savani University, Kosamba",Information Technology
+2024-25,50457,13836,General,"P.P. Savani School of Engineering,
+P.P. Savani University, Kosamba",Information Technology
+2024-25,990117,634243,General,PRODUCTION ENGINEERING,PRODUCTION ENGINEERING
+2024-25,39955,10293,General,"Pacific School Of Engineering, Surat",Computer Engineering
+2024-25,902243,63393,General,"Pandit Deendayal Energy University
+,Gandhinagar",Chemical Engineering
+2024-25,906020,170237,General,"Pandit Deendayal Energy University
+,Gandhinagar",Civil Engineering
+2024-25,900043,2146,General,"Pandit Deendayal Energy University
+,Gandhinagar",Computer Engineering
+2024-25,900809,23770,General,"Pandit Deendayal Energy University
+,Gandhinagar",Computer Science
+2024-25,901646,46223,General,"Pandit Deendayal Energy University
+,Gandhinagar","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,903107,88943,General,"Pandit Deendayal Energy University
+,Gandhinagar",Electrical Engineering
+2024-25,910457,288202,General,"Pandit Deendayal Energy University
+,Gandhinagar","INFORMATION &
+COMMUNICATION
+TECHNOLOGY"
+2024-25,902091,59112,General,"Pandit Deendayal Energy University
+,Gandhinagar","INFORMATION &
+COMMUNICATION
+TECHNOLOGY"
+2024-25,901270,36315,General,"Pandit Deendayal Energy University
+,Gandhinagar",Mechanical Engineering
+2024-25,904627,133429,General,"Pandit Deendayal Energy University
+,Gandhinagar",Mechanical Engineering
+2024-25,39602,17906,General,"Parul Institute of Engineering &
+Technology, Waghodia, Vadodara",AERONAUTICAL ENGINEERING
+2024-25,39116,24112,General,"Parul Institute of Engineering &
+Technology, Waghodia, Vadodara",AERONAUTICAL ENGINEERING
+2024-25,50317,14247,General,"Parul Institute of Engineering &
+Technology, Waghodia, Vadodara",Computer Science
+2024-25,50105,19263,General,"Parul Institute of Engineering &
+Technology, Waghodia, Vadodara",Computer Science
+2024-25,33452,27128,General,"Parul Institute of Engineering &
+Technology, Waghodia, Vadodara",Computer Science
+2024-25,36517,29590,General,"Parul Institute of Engineering &
+Technology, Waghodia, Vadodara",Computer Science
+2024-25,32980,28616,General,"Parul Institute of Engineering &
+Technology, Waghodia, Vadodara",Computer Science
+2024-25,39897,23554,General,"Parul Institute of Engineering &
+Technology, Waghodia, Vadodara",Computer Science
+2024-25,35539,32974,General,"Parul Institute of Engineering &
+Technology, Waghodia, Vadodara","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,34893,11791,General,"Parul Institute of Engineering &
+Technology, Waghodia, Vadodara","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,37934,39575,General,"Parul Institute of Engineering &
+Technology, Waghodia, Vadodara","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,39165,22773,General,"Parul Institute of Technology,
+Waghodia, Vadodara",Computer Science
+2024-25,39604,26229,General,"Parul Institute of Technology,
+Waghodia, Vadodara",Computer Science
+2024-25,30814,18235,General,"Parul Institute of Technology,
+Waghodia, Vadodara","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,28258,21365,General,"Parul Institute of Technology,
+Waghodia, Vadodara",FOOD TECHNOLOGY
+2024-25,30976,10662,General,"R.K. University - School of
+Engineering, Rajkot",Information Technology
+2024-25,33353,11485,General,"R.N.G. Patel Institute of Technology-
+RNGPIT , Bardoli",Computer Science
+2024-25,39784,26559,General,"R.N.G. Patel Institute of Technology-
+RNGPIT , Bardoli",Electrical Engineering
+2024-25,39937,13241,General,"R.N.G. Patel Institute of Technology-
+RNGPIT , Bardoli",Information Technology
+2024-25,39856,13490,General,"S.S.AGRAWAL INSTITUTE OF
+ENGINEERING & TECHNOLOGY
+NAVSARI",Computer Engineering
+2024-25,50231,8960,General,"SAL ENGINEERING &TECHNICAL
+INSTITUTE, SOLA, AHMEDABAD",Computer Engineering
+2024-25,50546,10829,General,"SAL ENGINEERING &TECHNICAL
+INSTITUTE, SOLA, AHMEDABAD",Computer Science
+2024-25,50382,10959,General,"SAL ENGINEERING &TECHNICAL
+INSTITUTE, SOLA, AHMEDABAD",Information Technology
+2024-25,50567,12931,General,"SARDAR PATEL COLLEGE OF
+ENGINEERING, BAKROL ANAND",Information Technology
+2024-25,50569,16412,General,"SARDAR VALLABHBHAI GLOBAL
+University - UCP Institute of
+Technology, Ahmedabad",Computer Science
+2024-25,50491,8823,General,"SCHOOL OF TECHNOLOGY, GSFC
+UNIVERSITY, VADODARA",Chemical Engineering
+2024-25,21987,9389,General,"SCHOOL OF TECHNOLOGY, GSFC
+UNIVERSITY, VADODARA",Computer Science
+2024-25,50487,5858,General,"SHREE SWAMINARAYAN INSTITUTE
+OF TECHNOLOGY, BHAT,
+GANDHINAGAR",Computer Science
+2024-25,50006,10333,General,"SHREE SWAMINARAYAN INSTITUTE
+OF TECHNOLOGY, BHAT,
+GANDHINAGAR",Information Technology
+2024-25,50344,8903,General,"Sal College Of Engineering ,
+Ahmedabad",Computer Engineering
+2024-25,50485,10448,General,"Sal College Of Engineering ,
+Ahmedabad",Information Technology
+2024-25,50632,9545,General,"Sal Institute Of Tech. & Engg.
+Research, Ahmedabad",Computer Engineering
+2024-25,32386,11158,General,"Sal Institute Of Tech. & Engg.
+Research, Ahmedabad",Computer Science
+2024-25,39739,10166,General,"Sal Institute Of Tech. & Engg.
+Research, Ahmedabad",Computer Science
+2024-25,50444,14469,General,"Sankalchand Patel College Of Engg.,
+Visnagar",Computer Engineering
+2024-25,39950,17748,General,"Sankalchand Patel College Of Engg.,
+Visnagar",Information Technology
+2024-25,50351,6537,General,"Sardar Vallabhbhai Patel Institute Of
+Tech.,Vasad",AERONAUTICAL ENGINEERING
+2024-25,17031,5281,General,"Sardar Vallabhbhai Patel Institute Of
+Tech.,Vasad",Computer Engineering
+2024-25,23162,8712,General,"Sardar Vallabhbhai Patel Institute Of
+Tech.,Vasad",Computer Science
+2024-25,38260,13322,General,"Sardar Vallabhbhai Patel Institute Of
+Tech.,Vasad","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,26533,6976,General,"Sardar Vallabhbhai Patel Institute Of
+Tech.,Vasad",Information Technology
+2024-25,29529,1336,General,"Sarvajanik College Of Engg. & Tech. ,
+Surat",Computer Engineering
+2024-25,15642,5402,General,"Sarvajanik College Of Engg. & Tech. ,
+Surat","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,36134,50634,General,"Sarvajanik College Of Engg. & Tech. ,
+Surat",Electrical Engineering
+2024-25,50242,12464,General,"Sarvajanik College Of Engg. & Tech. ,
+Surat","INSTRUMENTATION &
+CONTROL ENGINEERING"
+2024-25,12531,3091,General,"Sarvajanik College Of Engg. & Tech. ,
+Surat",Information Technology
+2024-25,12069,2456,General,"Sarvajanik College Of Engg. & Tech. ,
+Surat",Information Technology
+2024-25,39745,50336,General,"Sarvajanik College Of Engg. & Tech. ,
+Surat",Mechanical Engineering
+2024-25,29287,11273,General,"School of Engineering and
+Technology, Navrachana University,
+Vadodara",Computer Science
+2024-25,990097,591822,General,"Shantilal Shah Engineering College
+,Bhavnagar",Civil Engineering
+2024-25,39567,990408,General,"Shantilal Shah Engineering College
+,Bhavnagar",Electrical Engineering
+2024-25,902924,83932,General,"Shantilal Shah Engineering College
+,Bhavnagar",Information Technology
+2024-25,922394,675045,General,"Shantilal Shah Engineering College
+,Bhavnagar",Mechanical Engineering
+2024-25,34424,13684,General,"Shri Sadvidhya Mandal Institute Of
+Tech., Bharuch",Computer Science
+2024-25,50494,15849,General,"Shri Sadvidhya Mandal Institute Of
+Tech., Bharuch",Information Technology
+2024-25,35436,15582,General,"Shri Sitaram N Patel Inst. Of Tech. &
+Res. (Vidhyabharti Trust), Umrakh",Computer Science
+2024-25,50095,14975,General,"Shri Sitaram N Patel Inst. Of Tech. &
+Res. (Vidhyabharti Trust), Umrakh",Information Technology
+2024-25,16992,6853,General,"Shri Swami Atmanand Saraswati
+Institute Of Tech., Surat",Computer Engineering
+2024-25,32220,14489,General,"Shri Swami Atmanand Saraswati
+Institute Of Tech., Surat","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,23242,8087,General,"Shri Swami Atmanand Saraswati
+Institute Of Tech., Surat",Information Technology
+2024-25,39390,17272,General,"Shroff S.R.Rotary Inst. Of Chemical
+Technology, Vatatia,Bharuch","Shroff S.R.Rotary Inst. Of Chemical
+Technology, Vatatia,Bharuch"
+2024-25,50167,17221,General,"Shroff S.R.Rotary Inst. Of Chemical
+Technology, Vatatia,Bharuch","Shroff S.R.Rotary Inst. Of Chemical
+Technology, Vatatia,Bharuch"
+2024-25,25953,22049,General,"Shroff S.R.Rotary Inst. Of Chemical
+Technology, Vatatia,Bharuch","Shroff S.R.Rotary Inst. Of Chemical
+Technology, Vatatia,Bharuch"
+2024-25,50566,13156,General,"Shroff S.R.Rotary Inst. Of Chemical
+Technology, Vatatia,Bharuch","Shroff S.R.Rotary Inst. Of Chemical
+Technology, Vatatia,Bharuch"
+2024-25,30182,28205,General,"Sigma Institute Of Engg., Bakrol",Computer Engineering
+2024-25,33304,29897,General,"Silver Oak College Of Engg., & Tech.
+(WITHIN AMHEDABAD MUNICIPAL
+CORPORATION LIMIT), Ahmedabad",Computer Engineering
+2024-25,50312,20075,General,"Silver Oak College Of Engg., & Tech.
+(WITHIN AMHEDABAD MUNICIPAL
+CORPORATION LIMIT), Ahmedabad",Computer Engineering
+2024-25,32565,23456,General,"Silver Oak College Of Engg., & Tech.
+(WITHIN AMHEDABAD MUNICIPAL
+CORPORATION LIMIT), Ahmedabad",Computer Science
+2024-25,50041,16259,General,"Silver Oak College Of Engg., & Tech.
+(WITHIN AMHEDABAD MUNICIPAL
+CORPORATION LIMIT), Ahmedabad",Computer Science
+2024-25,38953,20445,General,"Silver Oak College Of Engg., & Tech.
+(WITHIN AMHEDABAD MUNICIPAL
+CORPORATION LIMIT), Ahmedabad",Computer Science
+2024-25,33130,27125,General,"Silver Oak College Of Engg., & Tech.
+(WITHIN AMHEDABAD MUNICIPAL
+CORPORATION LIMIT), Ahmedabad","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,50393,12245,General,"Unitedworld Institute of Technology,
+Uvarsad, Gandhinagar",Computer Science
+2024-25,50520,18189,General,"Unitedworld Institute of Technology,
+Uvarsad, Gandhinagar",Computer Science
+2024-25,40005,13485,General,"Unitedworld Institute of Technology,
+Uvarsad, Gandhinagar",Computer Science
+2024-25,38878,13691,General,"Unitedworld Institute of Technology,
+Uvarsad, Gandhinagar",Computer Science
+2024-25,38986,18814,General,"Unitedworld Institute of Technology,
+Uvarsad, Gandhinagar","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,35821,13868,General,"Unitedworld Institute of Technology,
+Uvarsad, Gandhinagar","INFORMATION &
+COMMUNICATION
+TECHNOLOGY"
+2024-25,36611,4320,General,"V.V.P. Engineering College, Rajkot",Computer Engineering
+2024-25,33144,25030,General,"V.V.P. Engineering College, Rajkot","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,38498,6332,General,"V.V.P. Engineering College, Rajkot",Information Technology
+2024-25,30407,34819,General,"Vidhyadeep Institute of Engineering
+& Technology, Anita(Kim), Surat",Chemical Engineering
+2024-25,903464,100013,General,"Vishwakarma Government
+Engineering College,
+Chandkheda,Gandhinagar",Chemical Engineering
+2024-25,903497,100791,General,"Vishwakarma Government
+Engineering College,
+Chandkheda,Gandhinagar",Civil Engineering
+2024-25,900227,7152,General,"Vishwakarma Government
+Engineering College,
+Chandkheda,Gandhinagar",Computer Engineering
+2024-25,900955,27593,General,"Vishwakarma Government
+Engineering College,
+Chandkheda,Gandhinagar",Computer Science
+2024-25,901460,41210,General,"Vishwakarma Government
+Engineering College,
+Chandkheda,Gandhinagar","ELECTRONICS &
+COMMUNICATION
+ENGINEERING"
+2024-25,902404,69059,General,"Vishwakarma Government
+Engineering College,
+Chandkheda,Gandhinagar","ELECTRONICS &
+INSTRUMENTATION
+ENGINEERING"
+2024-25,902897,83190,General,"Vishwakarma Government
+Engineering College,
+Chandkheda,Gandhinagar",Electrical Engineering
+2024-25,900725,21117,General,"Vishwakarma Government
+Engineering College,
+Chandkheda,Gandhinagar","INFORMATION &
+COMMUNICATION
+TECHNOLOGY"
+2024-25,902668,76568,General,"Vishwakarma Government
+Engineering College,
+Chandkheda,Gandhinagar","INSTRUMENTATION &
+CONTROL ENGINEERING"
+2024-25,900390,11579,General,"Vishwakarma Government
+Engineering College,
+Chandkheda,Gandhinagar",Information Technology
+2024-25,902464,70719,General,"Vishwakarma Government
+Engineering College,
+Chandkheda,Gandhinagar",Mechanical Engineering
+2024-25,904358,125865,General,"Vishwakarma Government
+Engineering College,
+Chandkheda,Gandhinagar",POWER ELECTRONICS
